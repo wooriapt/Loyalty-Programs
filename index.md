@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+### Loyalty Rewards Programs using Cryptocurrency
 
 [Link to another page](./another-page.html).
 
