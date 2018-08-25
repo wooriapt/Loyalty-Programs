@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### Loyalty Rewards Programs using Cryptocurrency
+## Loyalty Rewards Programs using Cryptocurrency
 
 [Link to another page](./another-page.html).
 
