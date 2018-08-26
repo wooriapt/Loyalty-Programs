@@ -4,8 +4,9 @@ layout: default
 
 # Loyalty Rewards Programs using Cryptocurrency
 
-[Link to another page](./another-page.html).  
-[Link to another page](/_posts/test.md).
+[Link to another page](./another-page.html).
+
+[Link to another page](/_posts/test.html).
 
 There should be whitespace between paragraphs.
 
