@@ -7,6 +7,8 @@ layout: default
 [Link to another page](./another-page.html).
 
 [Link to another page](/_posts/test.html).
+[Link to another page](Loyalty-Programs/_posts/test.md)
+    
 
 There should be whitespace between paragraphs.
 
