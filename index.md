@@ -9,6 +9,8 @@ layout: default
 - [Link to another page](./_posts/2018-08-26-test.md)  
 - [Link to another page](./_posts/test.md)      
 
+
+## Project philosophy  
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
