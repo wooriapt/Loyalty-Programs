@@ -7,7 +7,7 @@ layout: default
 - [Link to another page](./another-page.html).
 - [Link to another page](./test.html).  
 - [Link to another page](./_posts/2018-08-26-test.md)  
-- [Link to another page](./_posts/2018-08-26-test.html)      
+- [Link to another page](./_posts/test.md)      
 
 There should be whitespace between paragraphs.
 
