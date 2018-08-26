@@ -1,5 +1,5 @@
 ---
-layout: /_post
+layout:post
 title: Metamask Managing ERC20 Tokens 
 
 ---
