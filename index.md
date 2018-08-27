@@ -20,9 +20,9 @@ There should be whitespace between paragraphs. We recommend including a README, 
     gem "github-pages", group: :jekyll_plugins
  ```
  
+ 
  ```ruby
- Favicon head tag 
- default.html
+  default.html
   <link rel="icon" href="/assets/img/favicon.ico" type="image/x-icon">
  ``` 
  
