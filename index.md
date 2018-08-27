@@ -22,7 +22,8 @@ There should be whitespace between paragraphs. We recommend including a README, 
  
  ```ruby
  <!-- Favicon head tag -->
-  <link rel="icon" href="PATH/TO/favicon.ico" type="image/x-icon">
+ 
+  <link rel="icon" href="/assets/img/favicon.ico" type="image/x-icon">
  ``` 
  
 # Header 1
