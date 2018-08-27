@@ -31,10 +31,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
  
  ```
   default.html
-  <link rel=
-  "icon" href="/assets/img/favicon.ico" 
-  type="image/x-icon">
- ``` 
+   ``` 
  
 # Header 1
 
