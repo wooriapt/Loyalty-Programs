@@ -8,19 +8,26 @@ layout: default
 
 Crazy linking action  
 I get 10 times more traffic from [Google] [1] than from
-[Yahoo] [2] or [MSN] [3].
+[Naver] [2] or [Daun] [3].
 
-  [1]: http://google.com/        "Google"
-  [2]: http://search.yahoo.com/  "Yahoo Search"
-  [3]: http://search.msn.com/    "MSN Search"
+  [1]: http://google.com/     "Google"
+  [2]: http://www.naver.com/  "Naver"
+  [3]: http://www.daum.net/   "Daum Search"
 
 
 
 ## Project philosophy  
-There should be whitespace between paragraphs.
+### What is the Blockchain?
+A blockchain (distributed ledger) is an innovative way of storing, tracking, and transferring data (and value). The Bitcoin protocol, [1], launched in 2009, developed for the first time the idea of transferring value on a peer-to-peer decentralized basis over the internet, without the need for an intermediary. Satoshi Nakamoto, the pseudonymous creator(s) of Bitcoin, solved the ‘double spend’ problem when it came to digital currencies. The ‘double spend’ problem stated that digital information can easily be copied, and, therefore, a centralized authority was previously required to reflect where funds were located. The blockchain is a digital record stored on individual nodes (a network of computers) around the world. If a network is large enough with enough individual nodes, then the double spend problem would be a near impossibility. With the transactions replicated on many individual nodes on the network, this replication makes it highly secure. Ownership of funds is verified through cryptography and the blockchain is open for all to see and verify, therefore the full transparency of the system means that someone trying to commit fraud is immediately recognizable and any transactions submitted by such a node are ignored. The decentralized structure of the blockchain brings several key features in contrast to traditional centralized approaches:
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+● Transparency: it is possible for anyone to track the movement of funds from one account to another.  
+● Immutability: once confirmed, a transaction cannot be reversed. No one can interfere with a completed transfer.  
+● Trustless environment: Since all transactions and changes are visible, open, and transparent there is no need to worry about fraud or back door cheating.  
+● Low cost: transaction fees are minimal.  
+● Cross-border: funds can be sent as easily to someone on the other side of the world as they can to someone in the next room.  
+● Speed: due to the flat and transparent nature of the blockchain, transfers show up almost instantly and are typically confirmed in minutes, rather than hours or days.  
 
+What Ethereum intends to provide is a blockchain with a built-in fully fledged Turing-complete programming language that can be used to create “contracts”, encode arbitrary state transition functions, allowing users to create any of the systems described above, as well as many others that we have not yet imagined, simply by writing up the logic in a few lines of code. (https://github.com/ethereum/wiki/wiki/White-Paper)
 
 
 ## LIST
