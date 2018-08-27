@@ -4,7 +4,7 @@ layout: default
 ---
 
 # Project  
-# Loyalty Rewards-
+# Loyalty Rewards  
 # Programs using Cryptocurrency
 
 
