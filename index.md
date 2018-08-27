@@ -4,7 +4,8 @@ layout: default
 ---
 
 # Project  
-# Loyalty Rewards Programs using Cryptocurrency
+# Loyalty Rewards-
+  # Programs using Cryptocurrency
 
 
 
@@ -28,9 +29,11 @@ There should be whitespace between paragraphs. We recommend including a README, 
  ```
  
  
- ```favicon
+ ```
   default.html
-  <link rel="icon" href="/assets/img/favicon.ico" type="image/x-icon">
+  <link rel=
+  "icon" href="/assets/img/favicon.ico" 
+  type="image/x-icon">
  ``` 
  
 # Header 1
