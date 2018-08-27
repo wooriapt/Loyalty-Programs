@@ -5,23 +5,26 @@ layout: default
 # Project  
 # Loyalty Rewards Programs using Cryptocurrency
 
-- [Link to another page](./another-page.html).
-- [Link to another page](./test.html).  
-- [Link to another page](./_posts/2018-08-26-test.md)  
-- [Link to another page](./_posts/test.md)      
-
 
 ## Project philosophy  
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
+
+## LIST
+- [Link to another page](./another-page.html).
+- [Link to another page](./test.html).  
+- [Link to another page](./_posts/2018-08-26-test.md)  
+- [Link to another page](./_posts/test.md)      
+
+
  ```ruby
     gem "github-pages", group: :jekyll_plugins
  ```
  
  
- ```ruby
+ ```favicon
   default.html
   <link rel="icon" href="/assets/img/favicon.ico" type="image/x-icon">
  ``` 
