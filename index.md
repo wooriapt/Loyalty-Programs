@@ -17,7 +17,7 @@ I get 10 times more traffic from [Google] [1] than from
 
 ### Project philosophy 
 **우리가 열어갈 새로운 미래 Sample**  
-<iframe width="500" height="450" src="https://www.youtube.com/embed/2MsN8gpT6jY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><p>
+<iframe width="500" height="450" src="https://www.youtube.com/embed/2MsN8gpT6jY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  
   
   
 ### 1. 로열티 프로그램이란 무엇입니까?
