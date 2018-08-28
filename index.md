@@ -2,7 +2,7 @@
 layout: default
 
 ---
-# Cryptocurrency를 사용하는 충성도 보너스 프로그램을 통한 블록체인 생태계를 만들어가는 기업.
+## Cryptocurrency를 사용하는 충성도 보너스 프로그램을 통한 블록체인 생태계를 만들어가는 기업.
 ### Project: Loyalty Rewards Programs
 
 Crazy linking action  
