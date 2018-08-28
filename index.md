@@ -19,8 +19,6 @@ I get 10 times more traffic from [Google] [1] than from
 **우리가 열어갈 새로운 미래 Sample**  
 <iframe width="500" height="450" src="https://www.youtube.com/embed/2MsN8gpT6jY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><p>
   
-<iframe width="500" height="400" src="https://www.youtube.com/embed/2MsN8gpT6jY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
   
 ### 1. 로열티 프로그램이란 무엇입니까?
 로열티 프로그램은 체계적인 마케팅 전략입니다.
