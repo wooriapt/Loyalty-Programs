@@ -16,10 +16,49 @@ I get 10 times more traffic from [Google] [1] than from
 <img src="https://i.pinimg.com/564x/47/02/b6/4702b6e516a1318b9ab743224b28cfdf.jpg">
 
 ### Project philosophy 
-**우리가 열어갈 새로운 미래 Sample**  
+**우리가 열어갈 새로운 미래 Sample** 
+  
  - 홍보용 동영상이 하나 준비되면 좋겠다.
+<iframe width="555" height="312" src="https://www.youtube.com/embed/X9XdPoTF7HI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
   
   
+### Business Background.
+- Crypto-Money Interpersonal (P2P) Exchange of escrow coin for safe settlement is operated, and as a payment method for safe payment, 
+a utility coin Payment coin using CUBE ON
+
+### Business USE.  
+- Used by MasterCard merchants worldwide through MasterCard integrated billing system
+- Purchase conversion of exclusive vouchers and mobile coupons for use in Korea and Vietnam, Estonia (Estonia)
+- Mobile coupon purchase and membership card usage through affiliate contents in Korea, use ATM withdrawal
+- Used by Cube ON merchants in Korea and Vietnam
+
+### Project: Blockchain Ethereum ERC 20 / ERC 721 Token  
+   - Ethereum ERC 20
+   - Ethereum ERC 721
+
+
+### OTT tokens benefit
+
+
+### CrowdSale
+```
+- TOKEN SALE: 
+- Ticker: 123OTT 
+- Token type: Ethereum ERC 2.0 WALLET 
+- ICO Token Price: 1OTT = KRW 100 / 0.0000USD 
+- Fundraising Goal: 4,633.320,000 USD / KRW 5,000,000,000 
+- ICO Token 100,000,000 OTT (one hundred million 1억) 
+- 1 ETH= 10000 OTT
+- Total Tokens: 
+   - KRW 100,000,000,000
+   - 1,000,000,000 OTT  (1 OTT / KRW 100)   
+   - Available for Token Sale:      % 
+   - Know Your Customer (KYC): YES 
+   - Сan't  participate: CHINA, USA - Participation limited countries.
+- Min/Max Personal Cap: 10,000 USD / KRW 1,000,000  XCb 
+- Accepts: ETH
+```
+
 ### 1. 로열티 프로그램이란 무엇입니까?  
 로열티 프로그램은 체계적인 마케팅 전략입니다.  
 
@@ -58,9 +97,9 @@ I get 10 times more traffic from [Google] [1] than from
 ### 6. 마케팅 채널의 가치는 무엇입니까?
 마케팅 채널은 또한 보상을받습니다.
 
-123 플레이어 요소 네트워크에있는 플레이어는 지역 당 50 개의 요소 동전을받으며 네트워크를 통해 하루에 144,000 개의 동전을 제공 할 수 있습니다. 대부분의 다른 cryptocurrencies 같이,이 동전은 다른 cryptocurrencies 또는 평평한 통화를 위해 교환 될 수있다. 그러나 연구 및 시장 연구원이 예측하는 충성도 관리 시장의 시장 규모는 2020 년에 6.2 억 달러에 달할 것으로 예상됩니다. 암호 해독이 가져 오는 금전적 가치와 보편적 사용 우위는 고객이 한꺼번에이를 수용 할 수있게하며, cryptocurrency 자체의 가치를 이끌 것입니다.(https://github.com/ethereum/wiki/wiki/White-Paper)  
+123 플레이어 요소 네트워크에있는 플레이어는 지역 당 50 개의 요소 동전을받으며 네트워크를 통해 하루에 144,000 개의 동전을 제공 할 수 있습니다. 대부분의 다른 cryptocurrencies 같이,이 동전은 다른 cryptocurrencies 또는 평평한 통화를 위해 교환 될 수있다. 그러나 연구 및 시장 연구원이 예측하는 충성도 관리 시장의 시장 규모는 2020 년에 6.2 억 달러에 달할 것으로 예상됩니다. 암호 해독이 가져 오는 금전적 가치와 보편적 사용 우위는 고객이 한꺼번에이를 수용 할 수있게하며, cryptocurrency 자체의 가치를 이끌 것입니다. [whitelist](https://github.com/ethereum/wiki/wiki/White-Paper)    
 
-
+***
 ## 목차 LIST
 - [Link to another page](./another-page.html).
 - [Link to another page](./test.html).  
@@ -77,18 +116,6 @@ I get 10 times more traffic from [Google] [1] than from
   default.html
    ``` 
  
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
 ```js
 // Javascript code with syntax highlighting.
 var fun = function lang(l) {
@@ -104,44 +131,12 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
 ### Here is an unordered list:
 
 *   Item foo
 *   Item bar
 *   Item baz
 *   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
 
 ### And a nested list:
 
@@ -159,15 +154,6 @@ end
   - level 2 item
 - level 1 item
 
-### Small image
-
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
 ### Definition lists can be used with HTML syntax.
 
 <dl>
@@ -182,7 +168,9 @@ end
 </dl>
 
 ```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+Long, single-line code blocks should not wrap. 
+They should horizontally scroll if they are too long. 
+This line should be long enough to demonstrate this.
 ```
 
 ```
