@@ -15,7 +15,12 @@ I get 10 times more traffic from [Google] [1] than from
 
 
 
-### Project philosophy  
+### Project philosophy 
+**우리가 열어갈 새로운 미래 Sample**  
+
+<iframe width="460" height="315" src="https://www.youtube.com/embed/nLHBmPQa_FY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  
+
+
 ### 1. 로열티 프로그램이란 무엇입니까?
 로열티 프로그램은 체계적인 마케팅 전략입니다.
 
