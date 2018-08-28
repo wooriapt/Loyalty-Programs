@@ -16,20 +16,48 @@ I get 10 times more traffic from [Google] [1] than from
 
 
 ## Project philosophy  
-### What is the Blockchain?
-A blockchain (distributed ledger) is an innovative way of storing, tracking, and transferring data (and value). The Bitcoin protocol, [1], launched in 2009, developed for the first time the idea of transferring value on a peer-to-peer decentralized basis over the internet, without the need for an intermediary. Satoshi Nakamoto, the pseudonymous creator(s) of Bitcoin, solved the ‘double spend’ problem when it came to digital currencies. The ‘double spend’ problem stated that digital information can easily be copied, and, therefore, a centralized authority was previously required to reflect where funds were located. The blockchain is a digital record stored on individual nodes (a network of computers) around the world. If a network is large enough with enough individual nodes, then the double spend problem would be a near impossibility. With the transactions replicated on many individual nodes on the network, this replication makes it highly secure. Ownership of funds is verified through cryptography and the blockchain is open for all to see and verify, therefore the full transparency of the system means that someone trying to commit fraud is immediately recognizable and any transactions submitted by such a node are ignored. The decentralized structure of the blockchain brings several key features in contrast to traditional centralized approaches:
+### 1. 로열티 프로그램이란 무엇입니까?
+로열티 프로그램은 체계적인 마케팅 전략입니다.
 
-● Transparency: it is possible for anyone to track the movement of funds from one account to another.  
-● Immutability: once confirmed, a transaction cannot be reversed. No one can interfere with a completed transfer.  
-● Trustless environment: Since all transactions and changes are visible, open, and transparent there is no need to worry about fraud or back door cheating.  
-● Low cost: transaction fees are minimal.  
-● Cross-border: funds can be sent as easily to someone on the other side of the world as they can to someone in the next room.  
-● Speed: due to the flat and transparent nature of the blockchain, transfers show up almost instantly and are typically confirmed in minutes, rather than hours or days.  
+상인들은 고객이 다시 돌아와 상품을 사거나 서비스를 사용하도록 격려하기 위해이를 설정했습니다. 전형적인 로열티 프로그램은 고객이 로열티 포인트를 누적 할 수 있도록 프로그램을 제공하는 상인과 등록해야합니다. 비즈니스 유형 및 포인트 프로그램의 조건에 따라 포인트 포인트를 통해 고객은 새로운 제품 및 서비스에 대한 특별 액세스 권한을 얻게되고 향후 구매시 할인을 받거나 무료 상품을받을 수 있습니다. 로열티 프로그램의 예로는 마일 수 미래의 숙박을 위해 적용될 수있는 항공사, 레스토랑 포인트 및 호텔 포인트가 제공합니다.
 
-What Ethereum intends to provide is a blockchain with a built-in fully fledged Turing-complete programming language that can be used to create “contracts”, encode arbitrary state transition functions, allowing users to create any of the systems described above, as well as many others that we have not yet imagined, simply by writing up the logic in a few lines of code. (https://github.com/ethereum/wiki/wiki/White-Paper)
+### 2. 그것이 왜 중요합니까?
+충성도 프로그램은 비즈니스가 적절한 고객 유지율을 유지하는 데 도움이됩니다.
+
+덜 분명한 대답은 기업이 비용을 절감하는 데 도움이된다는 것입니다. 업계에 따라 기존 고객에게 판매하는 비용보다 신규 고객을 확보하는 데 5 배에서 25 배 정도의 비용이 소요됩니다. 또한 반복 고객은 새로운 고객보다 최대 33 %를 소비합니다. 이러한 수치를 감안할 때, 기업은 충성도 프로그램 형태로 기존 고객을 행복하게 유지할 수있는 인센티브를 제공하는 것이 합리적입니다. 또한 기업이 고객의 행동에 대한 중요한 데이터를 얻는 데 도움이됩니다.
+
+### 3. 그러나이 점들은 전혀 가치가 있지 않습니까?
+그들은 종류가 있습니다.
+
+2017 년 Colloquy Loyalty Census Report는 2015 년부터 2017 년까지 로열티 프로그램 회원 수가 약 15 % 증가한 것으로 나타났습니다. 2015 년에 기록 된 성장률은 26 %로 회원 가입 수가 증가하고 있음을 알 수 있습니다. 전문가들은 Plenitude가 고객의 감소하는 관심의 핵심이라고 믿습니다. 단순히 많은 충성도 프로그램이 있기 때문에 일반 소비자가 자신이 속한 모든 로열티 프로그램을 모니터링하기가 어려워졌습니다. 또한 수많은 프로그램으로 인해 고객이 충성도 프로그램 혜택을 누릴 수있는 충분한 점수를 축적하는 데 일반적으로 더 오래 걸립니다. Maritz Loyalty Marketing의 다른 보고서에서 조사 대상 소비자의 70 %는 보상 포인트를 누적하기에 충분한 포인트를 누적하는 데 6 개월에서 9 개월이 걸렸으므로 충성도 보상을 포기했습니다.
+
+고객이 충성도 점수를 덜 중요하게 생각하여 항상 의도 한대로 되돌아 가지 못하게함으로써 본질적으로 기업이 제품과 서비스를 더 많이 팔게됩니다. 고객 충성도 향상을 약속하는 충성도 프로그램을 제공하기 위해서는 고객이 적극적으로 참여할 필요가 없도록 보상 포인트를 소비자에게 더 많이 제공해야합니다.
+
+### 4. 그래서 Blockchain이 가치를 더할 수 있습니까?
+확실한!
+
+네, 분권화 된 네트워크 인 블록 체인 (Blockchain)은 분열 된 충성도 보상 공간을 분권화하고 통합하여 결국 보상 포인트를 더 가치있게 만듭니다.
+
+엘리먼트 (Elements) 라 불리는 새로운 암호 위주의 (cryptocurrency)가이를 위해 노력하고 있습니다. 주요 목표는 요소 증명 (cryptocurrency)입니다.이 알고리즘은 "작업 증명"계산에 사용되는 연쇄 해싱 알고리즘 인 X11을 사용하여 여러 가맹점이 제공하고 허용하는 보편적으로 허용되는 충성도 암호 화가됩니다.
+
+"증명 작업"cryptocurrency이기 때문에, cryptocurrencies를 채굴하는 데 필요한 처리 능력을 가진 컴퓨터를 소유 한 사람은 Element를 채굴 할 수 있으며 완료된 작업에 대해 일부 Elements가 보상을받을 수 있습니다. 광부들은 충성도 동전을 사용하여 일상적인 쇼핑을하거나 심지어 항공권이나 항공권을 살 수도 있습니다.
+
+### 5. 그리고 그것은 상인들에게 어떻게 유익합니까?
+기본 수준에서 충성도 동전을 사용하면 기업에서 고객과 쉽게 거래 할 수 있습니다.
+
+적어도 고객이 원하는 곳 어디에서나 사용할 수있는 충성도 포인트를 제공하거나 심지어 화폐 단위로 교환 할 수 있기 때문에 상인을 고객에게 더 가치있게 만듭니다. 이것은 고객 유지에 도움이됩니다. 경쟁 업체를 차별화 할 수있는 유일한 방법은 고객을 타겟팅하는 방법과 충성도가 높은 동전을 제공하는 것입니다.
+
+상인에 대한 보편적 충성도 암호 해독의 또 다른 이점은 충성도 책임을 줄이는 데 도움이 될 수 있다는 것입니다. 책임은 회사의 대차 대조표에있는 항목으로, 다른 사람이나 회사에 대한 책임을 나타냅니다. 그리고 충성도 포인트는 고객에게 할인 또는 심지어 대부분의 시간에 돈이 될 무료 품목을 제공하겠다는 약속을 구성하기 때문에 책임으로 기록되어야합니다. 모든 고객이 한 번에 모든 포인트를 사용하거나 동일한 기간에 포인트를 사용하기로 결정하면 회사의 금융 서적에 문제가 생길 수 있습니다. 그러나 누군가가 Elements 동전과 같은 광업에 참여할 수 있기 때문에 가맹점은 자신을 위해 광산을 만들고 고객에게 충성도 동전을 제공 할 수 있습니다. 그들은 또한 다른 상인들이 광산으로 만든 충성도 동전을받습니다.
+
+전통적인 충성도 포인트는 지출 된 후 상인에게 금전적 가치가 없습니다. 그리고 이것이 블록 체인 기반 통화가 화폐 통화로 거래 될 수 있고, 적어도 충성도 포인트로 이루어진 판매 중 일부를 회수 할 수 있기 때문에 상인에게 유리합니다.
+
+### 6. 마케팅 채널의 가치는 무엇입니까?
+마케팅 채널은 또한 보상을받습니다.
+
+123 플레이어 요소 네트워크에있는 플레이어는 지역 당 50 개의 요소 동전을받으며 네트워크를 통해 하루에 144,000 개의 동전을 제공 할 수 있습니다. 대부분의 다른 cryptocurrencies 같이,이 동전은 다른 cryptocurrencies 또는 평평한 통화를 위해 교환 될 수있다. 그러나 연구 및 시장 연구원이 예측하는 충성도 관리 시장의 시장 규모는 2020 년에 6.2 억 달러에 달할 것으로 예상됩니다. 암호 해독이 가져 오는 금전적 가치와 보편적 사용 우위는 고객이 한꺼번에이를 수용 할 수있게하며, cryptocurrency 자체의 가치를 이끌 것입니다.(https://github.com/ethereum/wiki/wiki/White-Paper)  
 
 
-## LIST
+## 목차 LIST
 - [Link to another page](./another-page.html).
 - [Link to another page](./test.html).  
 - [Link to another page](./_posts/2018-08-26-test.md)  
