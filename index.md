@@ -49,8 +49,8 @@ a utility coin Payment coin using CUBE ON
 - Token type: 
    - Ethereum ERC 2.0 WALLET
    - Ethereum ERC 721 WALLET  
-- ICO Token Price: 1OTT = KRW 100|0.0000USD 
-- Fundraising Goal: 4,633.320,000 USD|KRW 5,000,000,000 
+- SALE Token Price: 1OTT=KRW100|0.0000USD 
+- Fundraising Goal:4,633.320,000USD|KRW5,000,000,000 
 - SALE Token 100,000,000 OTT(one hundred million) 
 - 1 ETH= 10000 OTT
 - Total Tokens: 
@@ -60,7 +60,7 @@ a utility coin Payment coin using CUBE ON
    - Know Your Customer (KYC): YES 
    - Сan't  participate: NO.
    - Participation limited countries.
-- Min/Max Personal Cap: 10,000 USD|KRW 1,000,000OTT
+- Min/Max Personal Cap: 10,000 USD|KRW1,000,000OTT
 - Accepts: ETH
 ```
 
