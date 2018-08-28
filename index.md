@@ -19,9 +19,10 @@ I get 10 times more traffic from [Google] [1] than from
 **우리가 열어갈 새로운 미래 Sample** 
   
  - 홍보용 동영상이 하나 준비되면 좋겠다.
-<iframe width="555" height="312" src="https://www.youtube.com/embed/X9XdPoTF7HI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<p><iframe width="555" height="312" src="https://www.youtube.com/embed/X9XdPoTF7HI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
   
   
+
 ### Business Background.
 - Crypto-Money Interpersonal (P2P) Exchange of escrow coin for safe settlement is operated, and as a payment method for safe payment, 
 a utility coin Payment coin using CUBE ON
@@ -41,21 +42,25 @@ a utility coin Payment coin using CUBE ON
 
 
 ### CrowdSale
+
 ```
 - TOKEN SALE: 
 - Ticker: 123OTT 
-- Token type: Ethereum ERC 2.0 WALLET 
-- ICO Token Price: 1OTT = KRW 100 / 0.0000USD 
-- Fundraising Goal: 4,633.320,000 USD / KRW 5,000,000,000 
-- ICO Token 100,000,000 OTT (one hundred million 1억) 
+- Token type: 
+   - Ethereum ERC 2.0 WALLET
+   - Ethereum ERC 721 WALLET  
+- ICO Token Price: 1OTT = KRW 100|0.0000USD 
+- Fundraising Goal: 4,633.320,000 USD|KRW 5,000,000,000 
+- SALE Token 100,000,000 OTT(one hundred million) 
 - 1 ETH= 10000 OTT
 - Total Tokens: 
    - KRW 100,000,000,000
-   - 1,000,000,000 OTT  (1 OTT / KRW 100)   
+   - 1,000,000,000 OTT(1 OTT|KRW 100)   
    - Available for Token Sale:      % 
    - Know Your Customer (KYC): YES 
-   - Сan't  participate: CHINA, USA - Participation limited countries.
-- Min/Max Personal Cap: 10,000 USD / KRW 1,000,000  XCb 
+   - Сan't  participate: NO.
+   - Participation limited countries.
+- Min/Max Personal Cap: 10,000 USD|KRW 1,000,000OTT
 - Accepts: ETH
 ```
 
