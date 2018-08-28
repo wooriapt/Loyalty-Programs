@@ -17,7 +17,7 @@ I get 10 times more traffic from [Google] [1] than from
 
 ### Project philosophy 
 **우리가 열어갈 새로운 미래 Sample**  
-<iframe width="550" height="325" src="https://www.youtube.com/embed/2MsN8gpT6jY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><p>
+<iframe width="500" height="425" src="https://www.youtube.com/embed/2MsN8gpT6jY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><p>
   
 <iframe width="500" height="400" src="https://www.youtube.com/embed/2MsN8gpT6jY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
