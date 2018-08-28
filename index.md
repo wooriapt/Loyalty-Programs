@@ -2,7 +2,7 @@
 layout: default
 
 ---
-## 암호화 를 사용하는 충성도 보너스 프로그램을 통한 블록체인 생태계를 만들어가는 기업.
+## 암호화를 사용하는 충성도 보너스 프로그램을 통한 블록체인 생태계를 만들어가는 기업.
 ### Project: Loyalty Rewards Programs
 
 Crazy linking action  
@@ -17,7 +17,8 @@ I get 10 times more traffic from [Google] [1] than from
 
 ### Project philosophy 
 **우리가 열어갈 새로운 미래 Sample**  
-
+<iframe width="700" height="325" src="https://www.youtube.com/embed/2MsN8gpT6jY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><p>
+  
 <iframe width="500" height="400" src="https://www.youtube.com/embed/2MsN8gpT6jY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
   
