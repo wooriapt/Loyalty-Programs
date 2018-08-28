@@ -2,9 +2,8 @@
 layout: default
 
 ---
-
-# Project  
-# Loyalty Rewards Programs using Cryptocurrency
+# Cryptocurrency를 사용하는 충성도 보너스 프로그램을 통한 블록체인 생태계를 만들어가는 기업.
+### Project: Loyalty Rewards Programs
 
 Crazy linking action  
 I get 10 times more traffic from [Google] [1] than from
