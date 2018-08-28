@@ -13,7 +13,7 @@ I get 10 times more traffic from [Google] [1] than from
   [2]: http://www.naver.com/  "Naver"
   [3]: http://www.daum.net/   "Daum Search"
 
-
+<img src="https://www.pinterest.co.kr/pin/781937554028266284/">
 
 ### Project philosophy 
 **우리가 열어갈 새로운 미래 Sample**  
