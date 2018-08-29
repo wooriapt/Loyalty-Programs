@@ -45,7 +45,7 @@ a utility coin Payment coin using CUBE ON
 
 
 ### CrowdSale-크라우드 세일.
-**
+
 - TOKEN SALE: 
 - Ticker: 123OTT 
 - Token type: 
@@ -63,27 +63,21 @@ a utility coin Payment coin using CUBE ON
    - Сan't  participate: NO.
    - Participation limited countries.
 - Min/Max Personal Cap: 10,000 USD:KRW1,000,000OTT
-- Accepts: ETH**
+- Accepts: ETH
 
 
 ## 123 CASHBAG Loyalty Rewards Programs.  
 
 - [로열티 프로그램이란][프로그램이란]
-  - 로열티 프로그램은 체계적인 마케팅 전략입니다.
 - [그것이 왜 중요합니까?][중요합니까?]  
-  - 충성도 비즈니스가 적절한 고객 유지율을 유지하는 데 도움이됩니다. 
 - [ 가치가 있지 않습니까?][가치]
-  - 그들은 종류가 있습니다.
 - [ Blockchain][ Blockchain]
-  - 확실한!
 - [어떻게 유익합니까?][유익합니까?]
-   - 기본 수준에서 충성도 동전을 사용하면 기업에서 고객과 쉽게 거래 
 - [마케팅 채널][채널]
-  - 마케팅 채널은 또한 보상을받습니다.
 
 <!--toc-->
 
-[중요합니까?]: https://wooriapt.github.io/Loyalty-Programs/blob/master/index.md#2-%EA%B7%B8%EA%B2%83%EC%9D%B4-%EC%99%9C-%EC%A4%91%EC%9A%94%ED%95%A9%EB%8B%88%EA%B9%8C "2. 그것이 왜 중요합니까?"
+[중요합니까?]: https://wooriapt.github.io/Loyalty-Programs/index.md#2-%EA%B7%B8%EA%B2%83%EC%9D%B4-%EC%99%9C-%EC%A4%91%EC%9A%94%ED%95%A9%EB%8B%88%EA%B9%8C "2. 그것이 왜 중요합니까?"
 [가치]: https://wooriapt.github.io/Loyalty-Programs/blob/master/index.md#3-%EA%B7%B8%EB%9F%AC%EB%82%98%EC%9D%B4-%EC%A0%90%EB%93%A4%EC%9D%80-%EC%A0%84%ED%98%80-%EA%B0%80%EC%B9%98%EA%B0%80-%EC%9E%88%EC%A7%80-%EC%95%8A%EC%8A%B5%EB%8B%88%EA%B9%8C "3. 그러나이 점들은 전혀 가치가 있지 않습니까?"
 [ Blockchain]: https://wooriapt.github.io/Loyalty-Programs/blob/master/index.md#4-%EA%B7%B8%EB%9E%98%EC%84%9C-blockchain%EC%9D%B4-%EA%B0%80%EC%B9%98%EB%A5%BC-%EB%8D%94%ED%95%A0-%EC%88%98-%EC%9E%88%EC%8A%B5%EB%8B%88%EA%B9%8C "4. 그래서 Blockchain이 가치를 더할 수 있습니까?"
 [유익합니까?]: https://wooriapt.github.io/Loyalty-Programs/blob/master/index.md#5-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EA%B7%B8%EA%B2%83%EC%9D%80-%EC%83%81%EC%9D%B8%EB%93%A4%EC%97%90%EA%B2%8C-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9C%A0%EC%9D%B5%ED%95%A9%EB%8B%88%EA%B9%8C "5. 그리고 그것은 상인들에게 어떻게 유익합니까?"
