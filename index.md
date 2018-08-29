@@ -109,7 +109,7 @@ blockchain ecosystems에 참여하시는 지사. 가맹점. 영업점의 Benefit
  ```
   default.html
    ``` 
-### community
+### Community
 Join our Telegram channel today to show your support!   
 Please also follow and like us on [github](https://github.com/wooriapt "github"), [Twitter](https://twitter.com/wooriapt79 "Twitter"), and [Telegram](https://t.me/cubeon "Telegram").
 
@@ -125,7 +125,7 @@ Their continued engagement with our team each week will help us grow our existin
 Additionally, we have signed contracts with some of the largest blockchain partners in the world. We are extremely excited and anxious to announce these great partnerships. 
 Working alongside these great partners will help us expand to facilitate the mass adoption of cubeon ecosystem as the primary loyatly ecosystem platform focused on cubeon ecosystem Token earning in the world.  
 
-### Partner:Let’s Collaborate  
+### Partner: Let’s Collaborate  
 **Estonia Blockchain Lab**  
 Contact us for partnership opportunities  
 <a href="mailto:dany.me.park@gmail.com" class="btn btn-block"><i class="fa fa-user-circle-o"></i> Get in touch</a>
