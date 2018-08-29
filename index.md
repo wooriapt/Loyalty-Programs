@@ -133,7 +133,8 @@ a utility coin Payment coin using CUBE ON
 - 전자지갑은 크롬 인터넷 브라우져 기반으로 운영되는 전 세계적으로 안정성이 보장된 메타마스크(Metamask wallet)을 사용합니다.
   - [메타마스크 다운로드 받기](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn "메타마스크 다운로드 받기") 
 - [전자지갑 만들기](./another-page.html).
-- [화이트리스트 참여 및 작성](./test.html). 회원가입이 필요없이 구글(google email)메일을 기준으로 합니다.  
+- [화이트리스트 참여 및 작성](./test.html). 
+회원가입이 필요없이 구글(google email)메일을 기준으로 합니다.  
 
 ## 메뉴얼 보기  
 - [메타마스크 전자지갑 메뉴얼](./_posts/2018-08-26-test.md)  
@@ -148,64 +149,26 @@ a utility coin Payment coin using CUBE ON
  ```
   default.html
    ``` 
+### community
+Join our Telegram channel today to show your support!   
+Please also follow and like us on [github](https://github.com/wooriapt "github"), [Twitter](https://twitter.com/wooriapt79 "Twitter"), and [Telegram](https://t.me/cubeon "Telegram").
+
+### Our Team  
+
+
+#### Our Supports:
+*2018-08-15 15:37:07 wednesday*  
+Most of our advisors are Estonia blockchain Lab Member in the Lab. They have been working closely with the team daily to ensure that they actively support us as we build a great product in Cube ON ecoSystem.
+We are extremely fortunate to have the support of top industry leaders in blockchain, food Tech, technology sectors, and Marketing. 
+Their continued engagement with our team each week will help us grow our existing user base of 270,000 monthly active users into the global company we strive to be and help us make our impact on how people all across the world are able to earn.
+
+Additionally, we have signed contracts with some of the largest blockchain partners in the world. We are extremely excited and anxious to announce these great partnerships. 
+Working alongside these great partners will help us expand to facilitate the mass adoption of cubeon ecosystem as the primary loyatly ecosystem platform focused on cubeon ecosystem Token earning in the world.  
+
+### Partner:Let’s Collaborate  
+**Cube ON**  
+Contact us for partnership opportunities  
+<a href="mailto:dany.me.park@gmail.com" class="btn btn-block"><i class="fa fa-user-circle-o"></i> Get in touch</a>
  
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. 
-They should horizontally scroll if they are too long. 
-This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+### Contact me  
+<dany.me.park@gmail.com>
