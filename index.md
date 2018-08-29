@@ -43,7 +43,13 @@ a utility coin Payment coin using CUBE ON
    - Ethereum ERC 721
 
 ### OTT tokens benefit
+**blockchain ecosystems에 참여하시는 지사. 가맹점. 영업점의 Benefit**
 
+   - 하나
+   - 둘
+   - 셋
+   - 넷
+   - 다섯
 
 ### CrowdSale-크라우드 세일.
 
