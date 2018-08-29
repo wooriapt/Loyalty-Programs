@@ -45,26 +45,25 @@ a utility coin Payment coin using CUBE ON
 
 
 ### CrowdSale-크라우드 세일.
-
-
+**
 - TOKEN SALE: 
 - Ticker: 123OTT 
 - Token type: 
    - Ethereum ERC 2.0 WALLET
    - Ethereum ERC 721 WALLET  
-- SALE Token Price: 1OTT=KRW100|0.0000USD 
-- Fundraising Goal:4,633.320,000USD|KRW5,000,000,000 
+- SALE Token Price: 1OTT=KRW100:0.0000USD 
+- Fundraising Goal:4,633.320,000USD:KRW5,000,000,000 
 - SALE Token 100,000,000 OTT(one hundred million) 
 - 1 ETH= 10000 OTT
 - Total Tokens: 
    - KRW 100,000,000,000
-   - 1,000,000,000 OTT(1 OTT|KRW 100)   
+   - 1,000,000,000 OTT(1 OTT:KRW 100)   
    - Available for Token Sale:      % 
    - Know Your Customer (KYC): YES 
    - Сan't  participate: NO.
    - Participation limited countries.
-- Min/Max Personal Cap: 10,000 USD|KRW1,000,000OTT
-- Accepts: ETH
+- Min/Max Personal Cap: 10,000 USD:KRW1,000,000OTT
+- Accepts: ETH**
 
 
 ## 123 CASHBAG Loyalty Rewards Programs.  
@@ -80,12 +79,12 @@ a utility coin Payment coin using CUBE ON
 - [5. 그리고 그것은 상인들에게 어떻게 유익합니까?](#5-------------------------)
   * [기본 수준에서 충성도 동전을 사용하면 기업에서 고객과 쉽게 거래 할 수 있습니다.](#--------------------------------------------)
 - [6. 마케팅 채널의 가치는 무엇입니까?](#6-------------------)
-  * [마케팅 채널은 또한 보상을받습니다.](#------------------)
+  * [마케팅 채널은 또한 보상을받습니다.](#------------------)  
 <!--http://ecotrust-canada.github.io/markdown-toc/-->
 <small><i><a href=''>Table of contents generated with markdown-toc</a></i></small>
 
 
----
+
 ### 1. 로열티 프로그램이란 무엇입니까?  
 #### 로열티 프로그램은 체계적인 마케팅 전략입니다.  
 
