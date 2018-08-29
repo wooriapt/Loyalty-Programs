@@ -129,9 +129,9 @@ a utility coin Payment coin using CUBE ON
 ## 참여방법 및 절차
 - 저희는 인터넷 브라우져 기반으로 작업을 진행합니다. 이에 지원하는 브라우져는 크롬, 파이어폭스, 오페라(Chrome Firefox Opera)를
 지원하는 합니다. 참여를 희망하시는 분들은 크롬(Chrome)을 다운로드 받으셔야 합니다.
-  - [크롬(Chrome)을 다운로드] (https://www.google.com/intl/ko_ALL/chrome/)
+  - [크롬(Chrome)을 다운로드](https://www.google.com/intl/ko_ALL/chrome/ "크롬(Chrome)을 다운로드")
 - 전자지갑은 크롬 인터넷 브라우져 기반으로 운영되는 전 세계적으로 안정성이 보장된 메타마스크(Metamask wallet)을 사용합니다.
-  - [메타마스크 다운로드 받기] (https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn)
+  - [메타마스크 다운로드 받기](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn "메타마스크 다운로드 받기") 
 - [전자지갑 만들기](./another-page.html).
 - [화이트리스트 참여 및 작성](./test.html). 회원가입이 필요없이 구글(google email)메일을 기준으로 합니다.  
 
