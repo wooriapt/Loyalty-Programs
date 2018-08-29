@@ -74,12 +74,12 @@ blockchain ecosystems에 참여하시는 지사. 가맹점. 영업점의 Benefit
 
 ## WhitePaper.  
 
-- [로열티 프로그램이란][프로그램이란]
-- [그것이 왜 중요합니까?][중요합니까?]  
-- [ 가치가 있지 않습니까?][가치]
-- [ Blockchain][ Blockchain]
-- [어떻게 유익합니까?][유익합니까?]
-- [마케팅 채널][채널]
+- 로열티 프로그램이란
+- 그것이 왜 중요합니까?  
+- 가치가 있지 않습니까?
+- Blockchain
+- 어떻게 유익합니까?
+- 마케팅 채널
 
 <!--toc-->
 [ethereum whitelist](https://github.com/ethereum/wiki/wiki/White-Paper)    
