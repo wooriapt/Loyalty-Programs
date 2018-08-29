@@ -2,7 +2,6 @@
 layout: default
 
 ---
-<img src="http://www.123card.kr/images/logo.png">
 
 **Loyalty  Program A company that makes blockchain ecosystems.**
 ## <span style="color:navy blue"> 암호화폐를 사용하는 충성도 보너스 프로그램을 통한 블록체인 생태계를 만들어가는 기업</span>  
