@@ -41,7 +41,6 @@ a utility coin Payment coin using CUBE ON
    - Ethereum ERC 20
    - Ethereum ERC 721
 
-
 ### OTT tokens benefit
 
 
