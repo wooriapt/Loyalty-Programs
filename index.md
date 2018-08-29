@@ -67,7 +67,7 @@ a utility coin Payment coin using CUBE ON
 - Accepts: ETH
 
 
-## Whitelist.  
+## WhitePaper.  
 
 - [로열티 프로그램이란][프로그램이란]
 - [그것이 왜 중요합니까?][중요합니까?]  
