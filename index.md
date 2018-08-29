@@ -126,11 +126,17 @@ a utility coin Payment coin using CUBE ON
 
 ---
 
-## 목차 LIST
-- [Link to another page](./another-page.html).
-- [Link to another page](./test.html).  
-- [Link to another page](./_posts/2018-08-26-test.md)  
-- [Link to another page](./_posts/test.md)      
+## 참여방법 및 절차
+- 저희는 인터넷 브라우져 기반으로 작업을 진행합니다. 이에 지원하는 브라우져는 크롬, 파이어폭스, 오페라(Chrome Firefox Opera)를
+지원하는 합니다. 참여를 희망하시는 분들은 크롬(Chrome)을 다운로드 받으셔야 합니다.
+  - [크롬(Chrome)을 다운로드] (https://www.google.com/intl/ko_ALL/chrome/)
+- 전자지갑은 크롬 인터넷 브라우져 기반으로 운영되는 전 세계적으로 안정성이 보장된 메타마스크(Metamask wallet)을 사용합니다.
+  - [메타마스크 다운로드 받기] (https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn)
+- [전자지갑 만들기](./another-page.html).
+- [화이트리스트 참여 및 작성](./test.html). 회워가입이 필요없이 구글(google email)메일을 기준으로 합니다.  
+## 메뉴얼 보기  
+- [메타마스크 전자지갑 메뉴얼](./_posts/2018-08-26-test.md)  
+- [화이트리트 작성 메뉴얼](./_posts/test.md)      
 
 
  ```ruby
