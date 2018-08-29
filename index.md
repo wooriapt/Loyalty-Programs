@@ -20,7 +20,8 @@ I get 10 times more traffic from [Google] [1] than from
   
  - 홍보용 동영상이 하나 준비되면 좋겠다.
  - favicon.ico image
- - 마일리지 브랜드 및 이미지-로고.
+ - 마일리지 브랜드 및 이미지-로고.  
+ 
 <!-- 
 <iframe width="555" height="312" src="https://www.youtube.com/embed/X9XdPoTF7HI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 -->  
