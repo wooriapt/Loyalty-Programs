@@ -3,7 +3,7 @@ layout: default
 
 ---
 
-**Loyalty  Program A company that makes blockchain ecosystems.**
+**Loyalty Program A company that makes blockchain ecosystems.**
 ## <span style="color:navy blue"> 암호화폐를 사용하는 충성도 보너스 프로그램을 통한 블록체인 생태계를 만들어가는 기업</span>  
 ### Project: Loyalty Rewards Programs
 
@@ -24,10 +24,7 @@ I get 10 times more traffic from [Google] [1] than from
  - favicon.ico image
  - 마일리지 브랜드 및 이미지-로고.  
  
-<!-- 
-<iframe width="555" height="312" src="https://www.youtube.com/embed/X9XdPoTF7HI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
--->  
-  
+ 
 
 ### Business Background.
 - Crypto-Money Interpersonal (P2P) Exchange of escrow coin for safe settlement is operated, and as a payment method for safe payment, 
@@ -39,12 +36,19 @@ a utility coin Payment coin using CUBE ON
 - Mobile coupon purchase and membership card usage through affiliate contents in Korea, use ATM withdrawal
 - Used by Cube ON merchants in Korea and Vietnam
 
-### Project: Blockchain Ethereum ERC 20 / ERC 721 Token  
+### protocol: Blockchain Ethereum ERC 20 / ERC 721 Token  
    - Ethereum ERC 20
    - Ethereum ERC 721
 
-### OTT tokens benefit
-blockchain ecosystems에 참여하시는 지사. 가맹점. 영업점의 Benefit  
+### Loyalty tokens benefit
+blockchain ecosystems에 참여하시는 지사. 가맹점. 영업점의 Benefit   
+- **지사. 가맹점. 영업점**
+   - 하나
+   - 둘
+   - 셋
+   - 넷
+   - 다섯  
+- **참여형 소비자**
    - 하나
    - 둘
    - 셋
