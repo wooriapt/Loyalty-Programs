@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: 프로젝트 별 페이지 만들기
 tag: 마일리지, 123, 블록체인, 포인트, 
 ---
