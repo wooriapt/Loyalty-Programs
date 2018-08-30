@@ -8,11 +8,12 @@ tags: [마일리지, 123, 블록체인, 포인트]
 2018-08-31 01:56:40 Friday  
 ### 프로젝트 별 페이지 만들기
 ** Github Site**
-프로젝트 별 페이지를 만들 때 baseurl은 /projectname처럼 써야 합니다. 이렇게 두어야 https://yourname.github.io/projectname의 url로 접속할 수 있습니다.
+프로젝트 별 페이지를 만들 때 baseurl은 /projectname처럼 써야 합니다. 
+이렇게 두어야 https://yourname.github.io/projectname의 url로 접속할 수 있습니다.
 
 ### 현재 저희의 사이트 구조를 설명드리면.
 - https://wooriapt.github.io  Lab Main site입니다.
-  - 저희가 프로젝트별로 별도의 페이지(Page) 생성합니다.
+  - 저희가 프로젝트별로 별도의 페이지(Page) 생성합니다.  
      123 로얄티(https://wooriapt.github.io/Loyalty-Programs/) 프로그램 
 	 프로젝트 페이지입니다. 123의 메인 주소 이며 페이지입니다.
 
