@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Project Page
-tags: 마일리지  123  블록체인  포인트
+tags: [마일리지, 123, 블록체인, 포인트]
 
 ---
 
