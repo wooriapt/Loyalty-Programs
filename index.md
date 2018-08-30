@@ -26,7 +26,7 @@ I get 10 times more traffic from [Google] [1] than from
  - favicon.ico image
  - 마일리지 브랜드 및 이미지-로고. 
  - SNS Marketing 채널 
----
+--------
  
 
 ### Business Background.
