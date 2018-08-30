@@ -19,8 +19,9 @@ I get 10 times more traffic from [Google] [1] than from
 
 ### Project philosophy 
 **우리가 열어갈 새로운 미래 Sample**     
- ```
-   [스케쥴 Check](./_posts/2018-08-31-Procedure.md)
+[스케쥴 Check](./_posts/2018-08-31-Procedure.md) 
+
+```   
  - 홍보용 동영상이 하나 준비되면 좋겠다.
  - favicon.ico image
  - 마일리지 브랜드 및 이미지-로고. 
