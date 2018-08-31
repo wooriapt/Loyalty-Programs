@@ -71,9 +71,8 @@ permalink:
 USB 드라이브 등을 사용해 별도로 보관하세요.  
   
 **메타마스크 (Loyalty-Programs/assets/img/metamask down4.png)**   
-
-![_config.yml]({{ site.baseurl }}/assets/img/metamask down4.png  
-
+![_config.yml]({{ site.baseurl }}/assets/img/metamask down4.png)  
+  
       Loyalty-Programs/assets/img/metamask down4.png
       _posts/metamask setup.md      
       Loyalty-Programs/index.md
