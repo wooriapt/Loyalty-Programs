@@ -19,7 +19,7 @@ I get 10 times more traffic from [Google] [1] than from
 
 ### Project philosophy 
 **우리가 열어갈 새로운 미래 Sample**     
-[스케쥴 Check](2018-08-31-Procedure.md) 
+[스케쥴 Check](Procedure.md) 
 
 ---  
 
