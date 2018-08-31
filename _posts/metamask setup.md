@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: 메타마스크 설치
 tags: [마일리지, 123, 블록체인, 포인트, Matamask, setup] 
 permalink: 
@@ -20,6 +20,7 @@ permalink:
 ![메타마스크](/assets/img/metamask downdown.png)
 
       Loyalty-Programs/assets/img/metamask downdown.png
+      _posts/metamask setup.md
     
 
 설치가 끝나면 브라우저 오른쪽 상단에 여우 아이콘이 뜹니다.
