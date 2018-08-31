@@ -139,9 +139,16 @@ blockchain ecosystems에 참여하시는 지사. 가맹점. 영업점의 Benefit
 
 -----------------------------
 
+### Token registration preference  
+Token Contract Address :  
+Token Symbol:  
+Decimals of Precision:  
+Network Mode : Ropsten Testnet  
+
 ### Community
 바로 Telegram 채널에 가입하여 지원을 알려주십시오!  
-또한 github, Twitter 및 Telegram을 정보를 받으십시요.  
+또한 github, Twitter 및 Telegram을 정보를 받으십시요.
+
 Join our Telegram channel today to show your support!   
 Please also follow and like us on [github](https://github.com/wooriapt "github"), [Twitter](https://twitter.com/wooriapt79 "Twitter"), and [Telegram](https://t.me/cubeon "Telegram").
 
