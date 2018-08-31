@@ -15,16 +15,16 @@ permalink: /_posts/
 ### 현재 저희의 사이트 구조를 설명드리면.
 - https://wooriapt.github.io  Lab Main site입니다.
   - 저희가 프로젝트별로 별도의 페이지(Page) 생성합니다.  
-     123 로얄티(https://wooriapt.github.io/Loyalty-Programs/) 프로그램 
-	 프로젝트 페이지입니다. 123의 메인 주소 이며 페이지입니다.
+     123 로얄티[https://wooriapt.github.io/Loyalty-Programs/](https://wooriapt.github.io/Loyalty-Programs/)  
+     프로그램 프로젝트 페이지입니다. 123의 메인 주소 이며 페이지입니다.
 
 ### 프로젝트 개발 및 블록체인 업체들의 보편적인 구조입니다.  
 - 일반적인 저희 Github의 구조를 설명드리자면(저희는 이런 구조로 합니다.)
-   - 메인 페이지(https://wooriapt.github.io 블로그 형 개발 소식전달 사이트)
-      - 프로젝트별 페이지(https://wooriapt.github.io/Loyalty-Programs/)    
-	  - 개발 소스들을 저장하고 개발하는 주소.  
-	    https://github.com/wooriapt  
-       https://github.com/wooriapt79
+   - 메인 페이지 [https://wooriapt.github.io] (https://wooriapt.github.io) 블로그 형 개발 소식전달 사이트.  
+      - 프로젝트별 페이지[https://wooriapt.github.io/Loyalty-Programs/](https://wooriapt.github.io/Loyalty-Programs/)    
+  - 개발 소스들을 저장하고 개발하는 주소.  
+    [https://github.com/wooriapt]  (https://github.com/wooriapt)  
+    [https://github.com/wooriapt79] (https://github.com/wooriapt79)  
 
 **3단계 구조**로 작업을 합니다.
 
