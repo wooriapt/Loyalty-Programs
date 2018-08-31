@@ -5,10 +5,7 @@ tags: [마일리지, 123, 블록체인, 포인트]
 permalink: /_posts/
 
 ---
-
-2018-08-31 01:56:40 Friday
-
-### 프로젝트 별 페이지 만들기
+## 프로젝트 별 페이지 만들기
 
 **Github Site**
 프로젝트 별 페이지를 만들 때 baseurl은 /projectname처럼 써야 합니다. 
