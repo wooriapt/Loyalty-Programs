@@ -17,10 +17,12 @@ permalink:
 
 ### 메타마스크 (META MASK) 설치  
 
-![메타마스크](../assets/img/metamask downdown.png)
+![메타마스크](/assets/img/metamask downdown.png)
 
       Loyalty-Programs/assets/img/metamask downdown.png
-      _posts/metamask setup.md
+      _posts/metamask setup.md      
+      Loyalty-Programs/index.md
+    
     
 
 설치가 끝나면 브라우저 오른쪽 상단에 여우 아이콘이 뜹니다.
