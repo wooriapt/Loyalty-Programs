@@ -1,5 +1,7 @@
----
----
 
-@import "jekyll-theme-minimal";
-@import "{{ site.theme }}";
+```scss
+    ---
+    ---
+
+    @import "{{ site.theme }}";
+    ```
