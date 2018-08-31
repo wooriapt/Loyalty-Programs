@@ -38,15 +38,21 @@ I get 10 times more traffic from [Google] [1] than from
 - Crypto-Money Interpersonal (P2P) Exchange of escrow coin for safe settlement is operated, and as a payment method for safe payment, 
 a utility coin Payment coin using CUBE ON
 
+------------
+
 ### Business USE.  
 - Used by MasterCard merchants worldwide through MasterCard integrated billing system
 - Purchase conversion of exclusive vouchers and mobile coupons for use in Korea and Vietnam, Estonia (Estonia)
 - Mobile coupon purchase and membership card usage through affiliate contents in Korea, use ATM withdrawal
 - Used by Cube ON merchants in Korea and Vietnam
 
+---------------
+
 ### protocol: Blockchain Ethereum ERC 20 / ERC 721 Token  
    - Ethereum ERC 20
    - Ethereum ERC 721
+   
+---------------
 
 ### Loyalty tokens benefit
 blockchain ecosystems에 참여하시는 지사. 가맹점. 영업점의 Benefit   
@@ -62,6 +68,8 @@ blockchain ecosystems에 참여하시는 지사. 가맹점. 영업점의 Benefit
    - 셋
    - 넷
    - 다섯
+   
+------------------
 
 ### CrowdSale-크라우드 세일.
 
@@ -85,6 +93,9 @@ blockchain ecosystems에 참여하시는 지사. 가맹점. 영업점의 Benefit
 - Accepts: ETH
 
 
+
+-------------------------
+
 ## WhitePaper.  
 
 - 로열티 프로그램이란
@@ -97,7 +108,7 @@ blockchain ecosystems에 참여하시는 지사. 가맹점. 영업점의 Benefit
 <!--toc-->
 [ethereum whitelist](https://github.com/ethereum/wiki/wiki/White-Paper)    
 
----
+----------------
 
 ## 참여방법 및 절차
 - 저희는 인터넷 브라우져 기반으로 작업을 진행합니다. 이에 지원하는 브라우져는 크롬, 파이어폭스, 오페라(Chrome Firefox Opera)를
@@ -108,6 +119,9 @@ blockchain ecosystems에 참여하시는 지사. 가맹점. 영업점의 Benefit
 - [전자지갑 만들기](./another-page.html).
 - [화이트리스트 참여 및 작성](./test.html).   
 회원가입이 필요없이 구글(google email)메일을 기준으로 합니다.  
+
+
+----------------
 
 ## 메뉴얼 보기  
 - [메타마스크 전자지갑 메뉴얼](./_posts/2018-08-26-test.md)  
@@ -122,6 +136,9 @@ blockchain ecosystems에 참여하시는 지사. 가맹점. 영업점의 Benefit
  ```
   default.html
    ``` 
+
+-----------------------------
+
 ### Community
 바로 Telegram 채널에 가입하여 지원을 알려주십시오!  
 또한 github, Twitter 및 Telegram을 정보를 받으십시요.  
