@@ -18,9 +18,9 @@ I get 10 times more traffic from [Google] [1] than from
 <img src="https://i.pinimg.com/564x/47/02/b6/4702b6e516a1318b9ab743224b28cfdf.jpg">
 
 ### Project philosophy 
-**우리가 열어갈 새로운 미래 Sample** 
+**우리가 열어갈 새로운 미래 Sample**   
 <!--Logo 안나타나고 날자를 기준으로 화일명-->
-[스케쥴 Check](./_posts/2018-08-30-Procedure.md)   
+[스케쥴 Check](./_posts/2018-08-30-Procedure.md)     
 [스케쥴 Check](./Procedure.md)
 
 ---  
