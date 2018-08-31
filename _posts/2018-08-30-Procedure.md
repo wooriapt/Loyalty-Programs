@@ -14,15 +14,15 @@ permalink: /_posts/
 
 ### 현재 저희의 사이트 구조를 설명드리면.
 - https://wooriapt.github.io  Lab Main site입니다.
-  - 저희가 프로젝트별로 별도의 페이지(Page) 생성합니다.  
-     123 로얄티[https://wooriapt.github.io/Loyalty-Programs/](https://wooriapt.github.io/Loyalty-Programs/)  
-     프로그램 프로젝트 페이지입니다. 123의 메인 주소 이며 페이지입니다.
+- 저희가 프로젝트별로 별도의 페이지(Page) 생성합니다.  
+  123 로얄티[https://wooriapt.github.io/Loyalty-Programs/](https://wooriapt.github.io/Loyalty-Programs/)  
+  프로그램 프로젝트 페이지입니다. 123의 메인 주소 이며 페이지입니다.
 
 ### 프로젝트 개발 및 블록체인 업체들의 보편적인 구조입니다.  
 - 일반적인 저희 Github의 구조를 설명드리자면(저희는 이런 구조로 합니다.)
    - 메인 페이지 [https://wooriapt.github.io](https://wooriapt.github.io) 블로그 형 개발 소식전달 사이트.  
-      - 프로젝트별 페이지[https://wooriapt.github.io/Loyalty-Programs/](https://wooriapt.github.io/Loyalty-Programs/)    
-  - 개발 소스들을 저장하고 개발하는 주소.  
+   - 프로젝트별 페이지[https://wooriapt.github.io/Loyalty-Programs/](https://wooriapt.github.io/Loyalty-Programs/)    
+   - 개발 소스들을 저장하고 개발하는 주소.  
     [https://github.com/wooriapt](https://github.com/wooriapt)    
     [https://github.com/wooriapt79](https://github.com/wooriapt79)  
 
@@ -41,10 +41,10 @@ permalink: /_posts/
 
 **2. 직접 저희 Lab주소로 접속하시는 분들.**
  - 123 프로젝트 주소  https://wooriapt.github.io/Loyalty-Programs/
- -  (일정기간: 전자지갑 생성 및 토큰발급.보급)은 저희의 랩 주소에서 처리를 해야하기에 설명을 드립니다.
+ - (일정기간: 전자지갑 생성 및 토큰발급.보급)은 저희의 랩 주소에서 처리를 해야하기에 설명을 드립니다.
  
- ### 토큰 배포에 대한 프로세스    
- #### 참여방법 및 절차  
+### 토큰 배포에 대한 프로세스    
+#### 참여방법 및 절차  
 1. 저희는 인터넷 브라우져 기반으로 작업을 진행합니다. 이에 지원하는 브라우져는 크롬, 파이어폭스, 오페라(Chrome Firefox Opera)를
 지원하는 합니다. 참여를 희망하시는 분들은 크롬(Chrome)을 다운로드 받기.
 - [크롬(Chrome)을 다운로드](https://www.google.com/intl/ko_ALL/chrome/ "크롬(Chrome)을 다운로드")
