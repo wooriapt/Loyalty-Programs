@@ -19,6 +19,9 @@ permalink:
 
 ![메타마스크](Loyalty-Programs/assets/img/metamask downdown.png)
 
+[![image metamask down1](down1 "image metamask down1")]./assets/img/metamask down5.png "image metamask down1")
+image metamask down5
+
       Loyalty-Programs/assets/img/metamask downdown.png
       _posts/metamask setup.md      
       Loyalty-Programs/index.md
