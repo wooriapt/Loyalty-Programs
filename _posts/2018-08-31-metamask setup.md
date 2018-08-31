@@ -15,10 +15,12 @@ permalink:
 
 [메타마스크.MetaMask 다운받기](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn)
 
+
 ### 메타마스크 (META MASK) 설치  
 
-메타마스크 (Loyalty-Programs/assets/img/metamask downdown.png)  
- ![_config.yml]({{ site.baseurl }}/assets/img/metamask downdown.png)
+**메타마스크 (Loyalty-Programs/assets/img/metamask downdown.png)**  
+
+ ![_config.yml]({{ site.baseurl }}/assets/img/metamask downdown.png)  
 
       Loyalty-Programs/assets/img/metamask downdown.png
       _posts/metamask setup.md      
@@ -29,8 +31,9 @@ permalink:
 설치가 끝나면 브라우저 오른쪽 상단에 여우 아이콘이 뜹니다.
 
 
-메타마스크 (Loyalty-Programs/assets/img/metamask downdown1.png)  
-![_config.yml]({{ site.baseurl }}/assets/img/metamask downdown1.png)
+**메타마스크 (Loyalty-Programs/assets/img/metamask downdown1.png)**  
+
+![_config.yml]({{ site.baseurl }}/assets/img/metamask downdown1.png)  
 
       Loyalty-Programs/assets/img/metamask downdown.png
       _posts/metamask setup.md      
@@ -41,8 +44,9 @@ permalink:
 
 패스워드는 별도의 곳에 따로 잘 보관하시기 바랍니다.
 
-메타마스크 (Loyalty-Programs/assets/img/metamask down2.png)  
-![_config.yml]({{ site.baseurl }}./assets/img/metamask down2.png)
+**메타마스크 (Loyalty-Programs/assets/img/metamask down2.png)**  
+
+![_config.yml]({{ site.baseurl }}/assets/img/metamask down2.png)
 
       Loyalty-Programs/assets/img/metamask down2.png
       _posts/metamask setup.md      
@@ -51,8 +55,8 @@ permalink:
 
 
 
-메타마스크 (Loyalty-Programs/assets/img/metamask down3.png)  
-![_config.yml]({{ site.baseurl }}./assets/img/metamask down3.png)
+**메타마스크 (Loyalty-Programs/assets/img/metamask down3.png)**    
+![_config.yml]({{ site.baseurl }}/assets/img/metamask down3.png)  
 
       Loyalty-Programs/assets/img/metamask down3.png
       _posts/metamask setup.md      
@@ -66,8 +70,9 @@ permalink:
 이 문자열을 잃어버리면 지갑은 복구할 수 없습니다.   
 USB 드라이브 등을 사용해 별도로 보관하세요.  
   
-메타마스크 (Loyalty-Programs/assets/img/metamask down4.png)  
-![_config.yml]({{ site.baseurl }}./assets/img/metamask down4.png
+**메타마스크 (Loyalty-Programs/assets/img/metamask down4.png)**   
+
+![_config.yml]({{ site.baseurl }}/assets/img/metamask down4.png  
 
       Loyalty-Programs/assets/img/metamask down4.png
       _posts/metamask setup.md      
@@ -77,7 +82,9 @@ USB 드라이브 등을 사용해 별도로 보관하세요.
 왼쪽 위 상단에 보면 테스트넷에 물려 있는 것을 볼 수 있는데 여길 클릭하면 다른 곳에 연결할 수 있습니다.
 
 
-메타마스크 (Loyalty-Programs/assets/img/metamask down5.png)  
+**메타마스크 (Loyalty-Programs/assets/img/metamask down5.png)**  
+
+![_config.yml]({{ site.baseurl }}/assets/img/metamask down5.png)  
 
       Loyalty-Programs/assets/img/metamask down5.png
       _posts/metamask setup.md      
@@ -87,8 +94,9 @@ USB 드라이브 등을 사용해 별도로 보관하세요.
 
 빨간색 테두리 안을 클릭하시면 자신의 이더리움 지갑주소를 복사 또는 QR코드를 확인 하실수 있습니다.
 
-메타마스크 (Loyalty-Programs/assets/img/metamask down6.png)  
-![_config.yml]({{ site.baseurl }}./assets/img/metamask down6.png)
+**메타마스크 (Loyalty-Programs/assets/img/metamask down6.png)**  
+
+![_config.yml]({{ site.baseurl }}/assets/img/metamask down6.png)  
 
       Loyalty-Programs/assets/img/metamask down6.png
       _posts/metamask setup.md      
