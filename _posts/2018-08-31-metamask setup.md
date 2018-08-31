@@ -15,9 +15,9 @@ permalink:
 
 [메타마스크.MetaMask 다운받기](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn)
 
+### 메타마스크 (META MASK) 설치  
 
-[![image metamask down1]](./assets/img/metamask downdown.png)
-
+![메타마스크](./assets/img/metamask downdown.png)
 
 
 설치가 끝나면 브라우저 오른쪽 상단에 여우 아이콘이 뜹니다.
