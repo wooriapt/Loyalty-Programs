@@ -20,11 +20,11 @@ permalink: /_posts/
 
 ### 프로젝트 개발 및 블록체인 업체들의 보편적인 구조입니다.  
 - 일반적인 저희 Github의 구조를 설명드리자면(저희는 이런 구조로 합니다.)
-   - 메인 페이지 [https://wooriapt.github.io] (https://wooriapt.github.io) 블로그 형 개발 소식전달 사이트.  
+   - 메인 페이지 [https://wooriapt.github.io](https://wooriapt.github.io) 블로그 형 개발 소식전달 사이트.  
       - 프로젝트별 페이지[https://wooriapt.github.io/Loyalty-Programs/](https://wooriapt.github.io/Loyalty-Programs/)    
   - 개발 소스들을 저장하고 개발하는 주소.  
-    [https://github.com/wooriapt]  (https://github.com/wooriapt)  
-    [https://github.com/wooriapt79] (https://github.com/wooriapt79)  
+    [https://github.com/wooriapt](https://github.com/wooriapt)    
+    [https://github.com/wooriapt79](https://github.com/wooriapt79)  
 
 **3단계 구조**로 작업을 합니다.
 
@@ -35,7 +35,7 @@ permalink: /_posts/
 
 ### 신문광고를 집행하실 경우
 고객들이 접속하는 게이트는 2곳이 되겠지요..?  
-**1. 123 홈페이지를 통한 저희 Lab으로 넘어오는 가정.**
+**1. 123 홈페이지를 통한 저희 Lab으로 넘어오는 가정.**  
  - 123 홈페이지에서 저희쪽으로 
    링크(https://wooriapt.github.io/Loyalty-Programs/를 걸어주셔야 합니다.
 
@@ -43,17 +43,17 @@ permalink: /_posts/
  - 123 프로젝트 주소  https://wooriapt.github.io/Loyalty-Programs/
  -  (일정기간: 전자지갑 생성 및 토큰발급.보급)은 저희의 랩 주소에서 처리를 해야하기에 설명을 드립니다.
  
- ### 토큰 배포에 대한 프로세스  
- #### 참여방법 및 절차
+ ### 토큰 배포에 대한 프로세스    
+ #### 참여방법 및 절차  
 1. 저희는 인터넷 브라우져 기반으로 작업을 진행합니다. 이에 지원하는 브라우져는 크롬, 파이어폭스, 오페라(Chrome Firefox Opera)를
 지원하는 합니다. 참여를 희망하시는 분들은 크롬(Chrome)을 다운로드 받기.
-   - [크롬(Chrome)을 다운로드](https://www.google.com/intl/ko_ALL/chrome/ "크롬(Chrome)을 다운로드")
+- [크롬(Chrome)을 다운로드](https://www.google.com/intl/ko_ALL/chrome/ "크롬(Chrome)을 다운로드")
 2. 전자지갑은 크롬 인터넷 브라우져 기반으로 운영되는 전 세계적으로 안정성이 보장된 메타마스크(Metamask wallet)을 사용합니다.
-   - [메타마스크 다운로드 받기](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn "메타마스크 다운로드 받기") 
+- [메타마스크 다운로드 받기](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn "메타마스크 다운로드 받기") 
 3. 전자지갑 만들기
 4. 화이트리스트 참여 및 작성
 - 회원가입이 필요없이 구글(google email)메일을 기준으로 합니다.  
-    - 기타 다른 메일은 "스팸"으로 처리가 되기도 함.
+- 기타 다른 메일은 "스팸"으로 처리가 되기도 함.  
  5. 4번항목에서 지갑을 만드셨으면 123토큰을 담아야 하기에 담는 절차가 필요합니다.  
  (지갑에 100짜리 500원짜리 123토큰을 담는다고 이해하시면 됩니다.) 
  
