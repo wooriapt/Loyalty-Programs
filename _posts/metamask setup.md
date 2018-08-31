@@ -17,7 +17,7 @@ permalink:
 
 ### 메타마스크 (META MASK) 설치  
 
-![메타마스크](/assets/img/metamask downdown.png)
+![메타마스크](../assets/img/metamask downdown.png)
 
       Loyalty-Programs/assets/img/metamask downdown.png
       _posts/metamask setup.md
