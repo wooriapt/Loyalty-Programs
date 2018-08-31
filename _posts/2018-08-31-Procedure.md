@@ -2,12 +2,13 @@
 layout: post
 title: Project schedule Page
 tags: [마일리지, 123, 블록체인, 포인트]
+permalink: /_posts/
 
 ---
 
 2018-08-31 01:56:40 Friday  
 ### 프로젝트 별 페이지 만들기
-** Github Site**
+**Github Site**
 프로젝트 별 페이지를 만들 때 baseurl은 /projectname처럼 써야 합니다. 
 이렇게 두어야 https://yourname.github.io/projectname의 url로 접속할 수 있습니다.
 
