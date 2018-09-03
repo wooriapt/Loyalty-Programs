@@ -119,7 +119,6 @@ blockchain ecosystems에 참여하시는 지사. 가맹점. 영업점의 Benefit
 - 전자지갑 만들기
 - 화이트리스트 참여 및 작성   
 회원가입이 필요없이 구글(google email)메일을 기준으로 합니다.    
-
 - OTT Tokens 지갑에 추가하기 담기.
 
 ----------------
