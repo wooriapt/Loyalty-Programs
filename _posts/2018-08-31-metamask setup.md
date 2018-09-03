@@ -2,7 +2,8 @@
 layout: post
 title: 메타마스크 설치
 tags: [마일리지, 123, 블록체인, 포인트, Matamask, setup] 
-permalink: 
+permalink: /_posts
+
 ---
 
 
