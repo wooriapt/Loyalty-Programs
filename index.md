@@ -116,27 +116,19 @@ blockchain ecosystems에 참여하시는 지사. 가맹점. 영업점의 Benefit
   - [크롬(Chrome)을 다운로드](https://www.google.com/intl/ko_ALL/chrome/ "크롬(Chrome)을 다운로드")
 - 전자지갑은 크롬 인터넷 브라우져 기반으로 운영되는 전 세계적으로 안정성이 보장된 메타마스크(Metamask wallet)을 사용합니다.
   - [메타마스크 다운로드 받기](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn "메타마스크 다운로드 받기") 
-- [전자지갑 만들기](./another-page.html).
-- [화이트리스트 참여 및 작성](./test.html).   
-회원가입이 필요없이 구글(google email)메일을 기준으로 합니다.  
+- 전자지갑 만들기
+- 화이트리스트 참여 및 작성   
+회원가입이 필요없이 구글(google email)메일을 기준으로 합니다.    
 
-
+- OTT Tokens 지갑에 추가하기 담기.
 ----------------
 
-## 메뉴얼 보기  
+## 메뉴얼 보기 및 작성하기 
 - [메타마스크 전자지갑 메뉴얼](./_posts/2018-08-31-metamask setup.md)  
-- [화이트리트 작성 메뉴얼](./_posts/test.md)      
+- [화이트리트 작성 메뉴얼](./_posts/)      
+- [OTT Tokens 추가 및 담기] (./_posts/2018-09-03-Metamask ADD Tokens.md)
 
-
- ```ruby
-    gem "github-pages", group: :jekyll_plugins
- ```
  
- 
- ```
-  default.html
-   ``` 
-
 -----------------------------
 
 ### Token registration preference  
