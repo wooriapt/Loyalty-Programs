@@ -126,7 +126,7 @@ blockchain ecosystems에 참여하시는 지사. 가맹점. 영업점의 Benefit
 ## 메뉴얼 보기 및 작성하기 
 - [메타마스크 전자지갑 메뉴얼](./_posts/2018-08-31-metamask setup.md)  
 - [화이트리트 작성 메뉴얼](./_posts/)      
-- [OTT Tokens 추가 및 담기] (./_posts/2018-09-03-Metamask ADD Tokens.md)
+- [OTT Tokens 추가 및 담기](./_posts/2018-09-03-Metamask ADD Tokens.md)
 
  
 -----------------------------
