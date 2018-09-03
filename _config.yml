@@ -7,7 +7,7 @@ theme: jekyll-theme-minimal
 
 # Site Author
 author:
-  name             : "Blockchain Lab"
-  avatar           : ""
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name: "Blockchain Lab"
+  avatar: ""
+  bio: "Your biography for the left-hand sidebar"
+  location: "Location"
