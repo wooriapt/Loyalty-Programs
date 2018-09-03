@@ -33,9 +33,10 @@ permalink:
 ---
 
 **MetaMask**는 알려진 표준 ERC20,[ERC721(Will be applied to the blockchain loyalty program)](https://github.com/wooriapt/wooriapt.github.io/blob/master/_posts/2018-07-02-Loyalty%20Programsv.md "ERC721(Will be applied to the blockchain loyalty program)") 전자지갑이자 Dapp입니다. 
-전 세계적으로 안정성을 인정받은 전자지갑입니다.  
+전 세계적으로 안정성을 인정받은 전자지갑입니다. 
 
-저희 또한 전자지갑은 **메타마스크**를 사용합니다.
+
+저희 또한 전자지갑은 **메타마스크**를 사용합니다.  
 **당신이 소유한 토큰을 안정하게**   
 
 Chrome 확장 프로그램의 왼쪽 상단에있는 메뉴 아이콘을 클릭하여 표시 할 수 있습니다.  
