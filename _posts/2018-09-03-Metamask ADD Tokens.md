@@ -32,7 +32,7 @@ permalink:
 ### - Network Mode : Ropsten Testnet  
 ---
 
-**MetaMask**는 알려진 표준 ERC20,[ERC721(Will be applied to the blockchain loyalty program)](https://github.com/wooriapt/wooriapt.github.io/blob/master/_posts/2018-07-02-Loyalty%20Programsv.md "ERC721(Will be applied to the blockchain loyalty program)") 전자지갑이자 Dapp입니다. 
+**MetaMask**는 알려진 표준 ERC20,[ERC721(Will be applied to the blockchain loyalty program)](https://github.com/wooriapt/wooriapt.github.io/blob/master/_posts/2018-07-02-Loyalty%20Programsv.md "ERC721(Will be applied to the blockchain loyalty program)") 전자지갑이자 Dapp입니다.   
 전 세계적으로 안정성을 인정받은 전자지갑입니다. 
 
 
