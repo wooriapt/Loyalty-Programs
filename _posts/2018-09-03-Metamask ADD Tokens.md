@@ -2,7 +2,7 @@
 layout: post
 title: 메타마스크 토큰 추가하기
 tags: [마일리지, 123, 블록체인, 포인트, Matamask, 토큰추가] 
-permalink: /_posts/
+permalink:
 
 ---
 
