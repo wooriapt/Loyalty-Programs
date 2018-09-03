@@ -32,9 +32,11 @@ permalink:
 ### - Network Mode : Ropsten Testnet  
 ---
 
-**MetaMask**는 알려진 표준 ERC20,[ERC721(Will be applied to the blockchain loyalty program)](https://github.com/wooriapt/wooriapt.github.io/blob/master/_posts/2018-07-02-Loyalty%20Programsv.md "ERC721(Will be applied to the blockchain loyalty program)")   
+**MetaMask**는 알려진 표준 ERC20,[ERC721(Will be applied to the blockchain loyalty program)](https://github.com/wooriapt/wooriapt.github.io/blob/master/_posts/2018-07-02-Loyalty%20Programsv.md "ERC721(Will be applied to the blockchain loyalty program)") 전자지갑이자 Dapp입니다. 
+전 세계적으로 안정성을 인정받은 전자지갑입니다.  
 
-tokens you own, 
+저희 또한 전자지갑은 **메타마스크**를 사용합니다.
+**당신이 소유한 토큰을 안정하게**   
 
 Chrome 확장 프로그램의 왼쪽 상단에있는 메뉴 아이콘을 클릭하여 표시 할 수 있습니다.  
 그러나 토큰이 자동으로 표시되지 않습니다.   
@@ -50,6 +52,7 @@ Chrome 확장 프로그램의 왼쪽 상단에있는 메뉴 아이콘을 클릭�
 찾고있는 토큰이 표시되지 않으면 **토큰 추가** 버튼을 눌러 새 토큰을 추가하면됩니다.  
 **Search** 기능을 통해 제공되는 ERC20.ERC721 토큰의 일부 목록을 여기에서 유지합니다.  
 토큰 이름을 아는 경우 검색 창에 토큰을 입력하고 토큰을 선택할 수 있습니다  
+
 메뉴를 클릭 한 다음 **다음을 클릭하십시오.**  
 <!--
 ![_config.yml]({{ site.baseurl }}/images/Screen Shot 2018-05-31 at 5.55.56 PM.png) (width="70" height="70")   
@@ -77,7 +80,8 @@ Chrome 확장 프로그램의 왼쪽 상단에있는 메뉴 아이콘을 클릭�
 
  
 
-**추적하려는 토큰의 주소를 모른다면 토큰을 보낸 사람에게 물어보십시오.**
+**추적하려는 토큰의 주소를 모른다면 토큰을 보낸 사람에게 물어보십시오.**  
+E-Mail:<dany.me.park@gmail.com> dany.me.park@gmail.com  
 
 Ethereum 블록 체인은 셀 수없는 작은 토큰을 가지고 있으므로 우리 모두가 알 수는 없습니다.  
 어떤 사람이 당신에게 토큰을 가지고 있다고 말하면서 주소를 알려주지 않았다면 토큰을 정말로주지 않았을 것입니다.  
