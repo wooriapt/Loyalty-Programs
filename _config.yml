@@ -5,3 +5,9 @@ show_downloads: true
 google_analytics: wooriapt79
 theme: jekyll-theme-minimal
 
+# Site Author
+author:
+  name             : "Blockchain Lab"
+  avatar           : ""
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "Location"
