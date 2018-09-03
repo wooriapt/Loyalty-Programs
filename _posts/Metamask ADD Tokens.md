@@ -1,9 +1,11 @@
-
 ---
 layout: post
-title: Metamask ADD Tokens 
+title: 메타마스크 토큰 추가하기
+tags: [마일리지, 123, 블록체인, 포인트, Matamask, 토큰추가] 
+permalink: /_posts
 
 ---
+
 
 
 
@@ -23,11 +25,11 @@ To find out what this address is, we recommend looking at the token's website fo
 ---
 ### XCB registration preference  
 
-- **CUBE ON(XCB)Token Contract Address :**  
-  **0x3bab873663ebb4fb462a8456102a50847f999ca3.**
-- **Token Symbol:XCB**  
-- **Decimals of Precision:8** 
-- **Network Mode : Ropsten Testnet**  
+### - OTT Token Contract Address : 
+  ### 주소값:
+### - Token Symbol:OTT  
+### - Decimals of Precision:8 
+### - Network Mode : Ropsten Testnet  
 ---
 
 
@@ -35,9 +37,11 @@ To find out what this address is, we recommend looking at the token's website fo
 visible by clicking the menu icon on the top-left of the extension. 
 However, sometimes your tokens won't be displayed automatically. 
 We offer an easy step by step guide on how to add your tokens here:
-
-![_config.yml]({{ site.baseurl }}/images/meta_1_1.png)   
-![_config.yml]({{ site.baseurl }}/images/meta_1_2.png)
+### 안내 이미지는 신규로 지급하기전 추가합니다.  
+ - 현재는 샘플형식입니다.  
+ 
+![_config.yml]({{ site.baseurl }}/assets/img/meta_1_1.png)   
+![_config.yml]({{ site.baseurl }}/assets/img/meta_1_2.png)
  
 
 If the token you're looking for isn't displayed, just press the **ADD TOKEN** button to add a new token.   
