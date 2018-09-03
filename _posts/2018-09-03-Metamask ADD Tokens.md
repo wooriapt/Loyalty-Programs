@@ -26,9 +26,9 @@ To find out what this address is, we recommend looking at the token's website fo
 ### XCB registration preference  
 
 ### - OTT Token Contract Address : 
-  ### 주소값:
-### - Token Symbol:OTT  
-### - Decimals of Precision:8 
+ - 주소값:
+### - Token Symbol: OTT  
+### - Decimals of Precision: 8 
 ### - Network Mode : Ropsten Testnet  
 ---
 
@@ -37,7 +37,8 @@ To find out what this address is, we recommend looking at the token's website fo
 visible by clicking the menu icon on the top-left of the extension. 
 However, sometimes your tokens won't be displayed automatically. 
 We offer an easy step by step guide on how to add your tokens here:
-### 안내 이미지는 신규로 지급하기전 추가합니다.  
+
+### 안내 이미지는 샘플. 지급하기전 추가 안내합니다.  
  - 현재는 샘플형식입니다.  
  
 ![_config.yml]({{ site.baseurl }}/assets/img/meta_1_1.png)   
@@ -92,5 +93,4 @@ Remember that when transfering tokens, you still pay fees in Ether.
 
 You can also view token balances on these block explorers:
 
-https://etherscan.io/
-https://ethplorer.io/
+
