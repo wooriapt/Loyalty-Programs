@@ -17,7 +17,7 @@ I get 10 times more traffic from [Google] [1] than from
   [2]: http://www.naver.com/  "Naver"
   [3]: http://www.daum.net/   "Daum Search"
 
-![_config.yml]({{ site.baseurl }}/assets/img/)
+![_config.yml]({{ site.baseurl }}/assets/img/Screen+Shot+2017-10-14+at+14.39.30.png)
 <!--
 <img src="https://i.pinimg.com/564x/47/02/b6/4702b6e516a1318b9ab743224b28cfdf.jpg">
 -->
