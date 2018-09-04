@@ -144,22 +144,17 @@ Network Mode : Ropsten Testnet
 Join our Telegram channel today to show your support!   
 Please also follow and like us on [github](https://github.com/wooriapt "github"), [Twitter](https://twitter.com/wooriapt79 "Twitter"), and [Telegram](https://t.me/cubeon "Telegram").
 
-### Our Team   
+### Our LAB Team   
 #### Our Supports:
-Most of our advisors are Estonia blockchain Lab Member in the Lab. They have been working closely with the team daily to ensure that they actively support us as we build a great product in Cube ON ecoSystem.
-We are extremely fortunate to have the support of top industry leaders in blockchain, food Tech, technology sectors, and Marketing. 
-Their continued engagement with our team each week will help us grow our existing user base of 270,000 monthly active users into the global company we strive to be and help us make our impact on how people all across the world are able to earn.  
 우리의 고문 중 대부분은 실험실의 에스토니아 블록 체인 연구소 구성원입니다. 그들은 큐브 온 에코 시스템 (Cube ON ecoSystem)에서 훌륭한 제품을 만들 때 적극적으로 지원하기 위해 팀과 긴밀히 협력 해 왔습니다.
 Blockchain, Food Tech, 기술 분야 및 마케팅 분야의 업계 선두 업체를 지원하는 것은 대단히 기쁩니다.
-매주 팀과 지속적으로 협의하여 매월 27 만 명의 월간 활성 사용자 기반의 기존 사용자를 글로벌 기업으로 성장시키고 전 세계 사람들이 어떻게 수익을 창출 할 수 있도록 지원할 것입니다.
-Additionally, we have signed contracts with some of the largest blockchain partners in the world. We are extremely excited and anxious to announce these great partnerships. 
-Working alongside these great partners will help us expand to facilitate the mass adoption of cubeon ecosystem as the primary loyatly ecosystem platform focused on cubeon ecosystem Token earning in the world.    
+매주 팀과 지속적으로 협의하여 매월 27 만 명의 월간 활성 사용자 기반의 기존 사용자를 글로벌 기업으로 성장시키고 전 세계 사람들이 어떻게 수익을 창출 할 수 있도록 지원할 것입니다.  
 또한, 우리는 세계에서 가장 큰 블록 체인 파트너와 계약을 맺었습니다. 우리는 이러한 위대한 파트너십을 발표하게되어 매우 기쁩니다.
 이 위대한 파트너들과 함께 일하면서 큐본 생태계의 대량 채택을 촉진하여 세계에서 큐본 생태계 토큰 획득에 중점을 둔 주요 생태계 플랫폼으로 확장하는데 도움이 될 것입니다.
 
 ### Partner: Let’s Collaborate  
 **Estonia Blockchain Lab**  
-Contact us for partnership opportunities  
+파트너십 기회와 관심에 대한 문의    
 <a href="mailto:dany.me.park@gmail.com" class="btn btn-block"><i class="fa fa-user-circle-o"></i> Get in touch</a>
  
 ### Contact me  
