@@ -43,9 +43,21 @@ I get 10 times more traffic from [Google] [1] than from
 --------
  
 
-### Business Background.
-- Crypto-Money Interpersonal (P2P) Exchange of escrow coin for safe settlement is operated, and as a payment method for safe payment, 
-a utility coin Payment coin using CUBE ON
+### Business Background.  
+#### 마일리지 시스템에 블록체인이 필요한 이유는 무엇입니까?  
+#### 현재 사용 가능한 도구로는 다음과 같은 근본적인 질문에 답할 수 있습니까..?    
+
+- 얼마나 많은 쿠폰 / 추천 코드 / 포인트가 배포 되었습니까?   
+- 정확히 얼마나 많은 소비자가 사용하고 있습니까?   
+- 얼마나 많은 사람들이 소비에 참여를 하게 됩니까?   
+- 파트너가 파트너십을 홍보한다는 사실을 비즈니스 이해 관계자가 어떻게 알 수 있습니까?   
+- 가장 중요한 것은 두 비즈니스가 파트너십의 조건을 준수하도록하기 위해 어떤 인센티브가 제공되는 것입니까?  
+
+마일리지 시스템에 블록체인이 필요한 이유 ?   
+우리는 모두가 함께 할 블럭체인 생태계를 만들겁니다.   
+우리가 지향할 비즈니스의 배경입니다.  
+
+[더 보기: 마일리지 시스템에 블록체인이 필요한 이유는 무엇입니까?](./마일리지 시스템에 블록체인이 필요한 이유는 무엇입니까.md)
 
 ------------
 
