@@ -14,9 +14,10 @@ layout: default
 I get 10 times more traffic from [Google] [1] than from
 [Naver] [2] or [Daum] [3].
 -->
-  [1]: http://google.com/     "Google"
-  [2]: http://www.naver.com/  "Naver"
-  [3]: http://www.daum.net/   "Daum Search"
+
+  [1]: http://google.com/     "Google"  
+  [2]: http://www.naver.com/  "Naver"  
+  [3]: http://www.daum.net/   "Daum Search"  
 
 
 ![_config.yml]({{ site.baseurl }}/assets/img/Screen+Shot+2017-10-14+at+14.39.30.png)
