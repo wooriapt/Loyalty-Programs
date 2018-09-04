@@ -7,11 +7,12 @@ layout: default
 ## <span style="color:navy blue"> 암호화폐를 사용하는 충성도 보너스 프로그램을 통한 블록체인 생태계를 만들어가는 기업</span>  
 ### Project: Loyalty Rewards Programs
 
-여러분의 한번씩의 조회가  
-[Naver] [2] 나 [Daum] [3]보다 [Google] [1]에서 트래픽이 10 배나 많습니다.   
+여러분의 단 한번씩의 조회나 찾기가  
+[Naver] [2] 나 [Daum] [3]보다 [Google] [1]에서 트래픽이 10 배나 많아집니다. 
+<!--
 I get 10 times more traffic from [Google] [1] than from
 [Naver] [2] or [Daum] [3].
-
+-->
   [1]: http://google.com/     "Google"
   [2]: http://www.naver.com/  "Naver"
   [3]: http://www.daum.net/   "Daum Search"
