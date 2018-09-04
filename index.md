@@ -61,11 +61,34 @@ I get 10 times more traffic from [Google] [1] than from
 
 ------------
 
-### Business USE.  
-- Used by MasterCard merchants worldwide through MasterCard integrated billing system
-- Purchase conversion of exclusive vouchers and mobile coupons for use in Korea and Vietnam, Estonia (Estonia)
-- Mobile coupon purchase and membership card usage through affiliate contents in Korea, use ATM withdrawal
-- Used by Cube ON merchants in Korea and Vietnam
+### Business USE. 
+#### 비즈니스 모델 및 시장 전략으로 이동  
+123OTT 토큰은 B2B 파트너쉽을 단순화하여 중소 소상공인을 위하여 대규모 다국적 기업과 경쟁 할 때 경쟁 우위를 향상시키는 것을 목표로합니다.   
+123OTT 토큰은 비즈니스간에 수년간의 신뢰를 구축 할 필요가 없는 마찰없는 환경입니다.   
+
+123OTT 코인은 Ethereum 블록 체인을 기반으로 구축 된
+
+1. 분산 된 B2B 네트워크로 
+2. 전략적 파트너를 찾고
+3. 법적 구속력있는 계약을 만들고
+4. 충성도 높은 보상을 통해 소비자에게 가치를 더합니다. 
+5. 이러한 충성도는 고객의 도달 범위, 보존 및 전환에 대한 증가 된 성장과 주요 성과 지표를 추적합니다.
+
+#### 수익원(매출원) :
+
+Redemption   
+- 소비자가 상품 또는 서비스에 대해 123OTT 토큰을 사용하면 거래 수익이 발생합니다.   
+  이 거래 수수료는 123OTT 토큰의 형태로 사용 시점에 사용 된 토큰에서 공제됩니다.  
+
+- 광고 - 판매자가 123OTT 토큰 소비자에게 광고 할 수있는 플랫폼을 제공합니다.
+- 송금 - 123TOT 토큰 보상 동전을 다른 소비자 (예 : 0.10 %)로 이전하는 동안 동전 당 명목 수수료 부과
+- 독점적 인 파트너십 - 123TOT 토큰에 가입하면 고객 및 판매자가 완전히 무료입니다. 
+  그러나 상보자는 상보적인 123OTT 토큰 파트너와 독창적이고 전문화 된 전략적 파트너 관계를 체결하기 위해 소액의 수수료를 부과합니다.
+  
+  123OTT 토큰과 같은 플랫폼의 일반적인 문제는 사용자 기반이 없는 플랫폼으로 공급 업체를 유치하는 것입니다. 
+  결과적으로, 123OTT 토큰 대행사의 도움을 받아 전략적 대량 판매 업체 목록이 등록되며, 판매자를 대신하여 가맹점의 설치 오버 헤드 및 
+  부담을 제거하고 이를 123OTT 토큰 팀으로 전송합니다. 
+  일부 판매자의 경우 핵심 제품 또는 서비스가 출시를 위한 강력한 공급 기반을 구축하기 위해 무료로 플랫폼에서 호스팅됩니다.
 
 ---------------
 
