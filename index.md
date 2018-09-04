@@ -58,25 +58,28 @@ a utility coin Payment coin using CUBE ON
 ---------------
 
 ### protocol: Blockchain Ethereum ERC 20 / ERC 721 Token  
-   - Ethereum ERC 20
-   - Ethereum ERC 721
-   
+   - **Ethereum ERC 20**  
+     지사. 가맹점. 영업점 마일리지(포인트)형 암호화폐  
+   - **Ethereum ERC 721**  
+     고객 및 가맹점 사용자 대상의 마일리지(포인트)형 암호화폐    
+     마일리지 처럼 적립 받고 바로 가맹점에서 사용할수 있는 적립형 마일리지 토큰.  
+     
 ---------------
 
 ### Loyalty tokens benefit
 blockchain ecosystems에 참여하시는 지사. 가맹점. 영업점의 Benefit   
 - **지사. 가맹점. 영업점**
-   - 하나
-   - 둘
-   - 셋
-   - 넷
-   - 다섯  
+   - one:   
+   - two:  
+   - three:  
+   - [더보기: Whitepaper](./whitepaper.md)  
+    
 - **참여형 소비자**
-   - 하나
-   - 둘
-   - 셋
-   - 넷
-   - 다섯
+   - one:  
+   - two:  
+   - three:  
+   - [더 보기: whitepaper](./whitepaper.md)  
+   
    
 ------------------
 
