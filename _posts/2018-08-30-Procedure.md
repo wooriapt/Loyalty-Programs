@@ -3,6 +3,7 @@ layout: default
 title: Project schedule Page
 tags: [마일리지, 123, 블록체인, 포인트]
 permalink: /_posts/
+comments: true
 
 ---
 ## 프로젝트 별 페이지 만들기
