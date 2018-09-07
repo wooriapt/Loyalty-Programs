@@ -47,12 +47,10 @@ I get 10 times more traffic from [Google] [1] than from
 [스케쥴 Check](./_posts/2018-08-30-Procedure.md) -->    
 [스케쥴 Check](./Procedure.md)
 
----  
+------  
 
- - 홍보용 동영상이 하나 준비되면 좋겠다.
- - favicon.ico image
- - 마일리지 브랜드 및 이미지-로고. 
- - SNS Marketing 채널
+ ![_config.yml]({{ site.baseurl }}/assets/img/camra.png)
+ 
  
 --------
  
