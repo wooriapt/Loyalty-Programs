@@ -10,8 +10,8 @@ permalink:
 
 
 ## MetaMask-토큰 관리.
-<img src="https://cryptobitgames.com/wp-content/uploads/2018/03/metamask-banner-696x412.jpg">
-<!-- ![_config.yml]({{ site.baseurl }}/images/metamask-logo-eyes.png) -->
+
+![_config.yml]({{ site.baseurl }}/assets/img/metamask-logo-eyes.jpg)
 
 ### What is a Token Contract Address?
 - 토큰 계약 주소 란 무엇입니까?  
