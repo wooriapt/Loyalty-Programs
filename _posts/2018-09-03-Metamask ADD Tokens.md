@@ -74,7 +74,7 @@ Chrome 확장 프로그램의 왼쪽 상단에있는 메뉴 아이콘을 클릭�
 
 #### 동영상을 잠시 보십시요.  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6Gf_kRE4MJU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  
+[메타마스크 설정 동영상](https://www.youtube.com/embed/6Gf_kRE4MJU) encrypted-media
  
 
 
