@@ -6,6 +6,7 @@ layout: default
 **Loyalty Program A company that makes blockchain ecosystems.**
 ## <span style="color:navy blue"> 암호화폐를 사용하는 충성도 보너스 프로그램을 통한 블록체인 생태계를 만들어가는 기업</span>  
 ### Project: Loyalty Rewards Programs
+![_config.yml]({{ site.baseurl }}/assets/img/menu_1.png)![_config.yml]({{ site.baseurl }}/assets/img/menu_2.png)![_config.yml]({{ site.baseurl }}/assets/img/menu_3.png)![_config.yml]({{ site.baseurl }}/assets/img/menu_4.png)  
 
 여러분의 단 한번씩의 조회나 찾기가  
 [Naver] [2] 나 [Daum] [3]보다 [Google] [1]에서 트래픽이 10 배나 많아집니다. 
@@ -24,6 +25,7 @@ I get 10 times more traffic from [Google] [1] than from
 출처:바르다가 사랑한 얼굴들.
 #### image cut의 의미
 ---------
+
 #### 바르다가 사랑한 얼굴들  
 **일하는 사람들과 활동을 펼친다는 것입니다**    
 사람들이 다 이주하고 텅빈 광산 주변의 주거지역, 철거를 앞둔 오래된 주택단지  
