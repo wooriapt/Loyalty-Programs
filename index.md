@@ -130,7 +130,7 @@ blockchain ecosystems에 참여하시는 지사. 가맹점. 영업점의 Benefit
 
 **1 단계 가입만 하시면 됩니다.**  
 
-귀하의 지역에서 123OTT 코인 대한민국/Korea 지역 서비스 제공   
+귀하의 지역에서 OTT Tokens. 서비스는  대한민국/Korea 지역 서비스 제공 후 글로벌 마켓 제휴 및 활용.     
 OTT Tokens 제공 OTT Tokens을 제공하는 지역의 OTT Tokens 사업에 귀하가 보유한 OTT Tokens 지갑을 사용하여 판매  
 구매하거나 OTT Tokens을 보낼 수 있습니다.   
 OTT Tokens 지갑 - 교환하거나 판매하거나 동전을 보낼 수 있습니다.  
