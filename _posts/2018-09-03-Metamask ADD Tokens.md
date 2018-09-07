@@ -11,7 +11,7 @@ permalink:
 
 ## MetaMask-토큰 관리.
 
-![_config.yml]({{ site.baseurl }}/assets/img/metamask-logo-eyes.jpg)
+![_config.yml]({{ site.baseurl }}/assets/img/metamask-banner-696x412.jpg)
 
 ### What is a Token Contract Address?
 - 토큰 계약 주소 란 무엇입니까?  
