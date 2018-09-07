@@ -49,7 +49,7 @@ I get 10 times more traffic from [Google] [1] than from
 
 ------  
 
- ![_config.yml]({{ site.baseurl }}/assets/img/camra.png)
+ ![_config.yml]({{ site.baseurl }}/assets/img/camra.png) 우리가 열어갈 새로운 미래
  
  
 --------
