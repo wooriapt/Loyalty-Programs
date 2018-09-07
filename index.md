@@ -79,7 +79,7 @@ I get 10 times more traffic from [Google] [1] than from
 OTT 토큰은 B2B 파트너쉽을 단순화하여 중소 소상공인을 위하여 대규모 다국적 기업과 경쟁 할 때 경쟁 우위를 향상시키는 것을 목표로합니다.   
 OTT 토큰은 비즈니스간에 수년간의 신뢰를 구축 할 필요가 없는 마찰없는 환경입니다.   
 
-OTT Tokens은 Ethereum 블록 체인을 기반으로 구축 된
+OTT Tokens은 Ethereum 2.0/721 블록 체인을 기반으로 구축 된
 
 1. 분산 된 B2B 네트워크로 
 2. 전략적 파트너를 찾고
