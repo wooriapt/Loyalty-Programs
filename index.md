@@ -202,12 +202,15 @@ blockchain ecosystems에 참여하시는 지사. 가맹점. 영업점의 Benefit
  
 -----------------------------
 
-### Token registration preference 
+### Token registration preference  
+
 ```
-Token Contract Address :  
-Token Symbol:  
-Decimals of Precision:  
+
+Token Contract Address :    
+Token Symbol: OTT   
+Decimals of Precision: 8  
 Network Mode : Ropsten Testnet  
+
 ```
 ### Community
 바로 Telegram 채널에 가입하여 지원을 알려주십시오!  
