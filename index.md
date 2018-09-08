@@ -32,7 +32,7 @@ I get 10 times more traffic from [Google] [1] than from
 
 ---------
 
-### Project philosophy 
+### 프로젝트의 철학(The philosophy of the Project)   
 **일하는 사람들과 활동을 펼친다는 것입니다**     
 **소비가 자산이 될수 있다..?**  
 증명하는  실험적인 프로젝트를 진행하고자 합니다.    
