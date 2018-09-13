@@ -215,7 +215,7 @@ OTT Tokens 지갑 - 교환하거나 판매하거나 동전을 보낼 수 있습�
  
 -----------------------------
 ## [Loyalty Program Q&A](https://wooriapt.github.io/wooriapt.github.io/Loyalty-Program-Q&A/)    
-### 묻고 답하기.  
+### <span style="color:red"> 묻고 답하기</span> 
 
 ----------------------------
 
