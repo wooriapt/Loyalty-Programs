@@ -128,7 +128,11 @@ Redemption
 ---------------
 
 ### Loyalty tokens benefit
-blockchain ecosystems에 참여하시는 지사. 가맹점. 영업점의 Benefit   
+blockchain ecosystems에 참여하시는 지사. 가맹점. 영업점의 Benefit 
+- 신규 및 기존 지사. 가맹점. 영업점에 토큰을 지급하므로 해서 영업에 대한 최소한에 리스크 해치를 하고
+새로운 토큰 이코노미 경제와 함께 지사. 가맹점. 영업점 라이센스 획득을 위한 기회비용을 극대화 하여
+함께 하는 가족들에게 혜택을 드릴수 있는 우리들의 비즈니스 모델입니다.  
+
 - **지사. 가맹점. 영업점**
    - one:   
    - two:  
@@ -213,9 +217,11 @@ OTT Tokens 지갑 - 교환하거나 판매하거나 동전을 보낼 수 있습�
 - [OTT Tokens 추가 및 담기](./_posts/2018-09-03-Metamask ADD Tokens.md)
 
  
------------------------------
+-----------------------------  
+
+### <span style="color:red"> 묻고 답하기</span>   
 ## [Loyalty Program Q&A](https://wooriapt.github.io/wooriapt.github.io/Loyalty-Program-Q&A/)    
-### <span style="color:red"> 묻고 답하기</span> 
+
 
 ----------------------------
 
