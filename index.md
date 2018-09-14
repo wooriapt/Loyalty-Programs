@@ -127,6 +127,8 @@ Redemption
      고객 및 가맹점 사용자 대상의 마일리지(포인트)형 암호화폐    
      마일리지 처럼 적립 받고 바로 가맹점에서 사용할수 있는 적립형 마일리지 토큰.  
      - [ERC 721 https://github.com/wooriapt79/EIPs/blob/master/EIPS/eip-721.md](https://github.com/wooriapt79/EIPs/blob/master/EIPS/eip-721.md)  
+     
+     
 ---------------
 
 ### Loyalty tokens benefit
