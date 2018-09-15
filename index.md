@@ -65,8 +65,9 @@ I get 10 times more traffic from [Google] [1] than from
 
 ------  
 
- ![_config.yml]({{ site.baseurl }}/assets/img/camra.png)   
- 우리가 열어갈 새로운 미래
+ [![_config.yml]({{ site.baseurl }}/assets/img/camra.png) ](https://www.ted.com/talks/don_tapscott_how_the_blockchain_is_changing_money_and_business?awesm=on.ted.com_8dbp&language=ko&utm_campaign=tedspread&utm_content=ted.com-talkpage&utm_medium=referral&utm_source=tedcomshare)
+ 
+ [우리가 열어갈 새로운 미래](https://www.ted.com/talks/don_tapscott_how_the_blockchain_is_changing_money_and_business?awesm=on.ted.com_8dbp&language=ko&utm_campaign=tedspread&utm_content=ted.com-talkpage&utm_medium=referral&utm_source=tedcomshare)
  
  
 --------
