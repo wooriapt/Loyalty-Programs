@@ -7,6 +7,10 @@ layout: default
 ## <span style="color:navy blue"> 암호화폐를 사용하는 충성도 보너스 프로그램을 통한 블록체인 생태계를 만들어가는 기업</span>  
 ### Project: Loyalty Rewards Programs
 
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-53a5cc30700a056a"></script>
+
+
 <!--
 ![_config.yml]({{ site.baseurl }}/assets/img/menu_1.jpg)안내데스크 ![_config.yml]({{ site.baseurl }}/assets/img/menu_2.jpg) 묻고답하기
 ![_config.yml]({{ site.baseurl }}/assets/img/menu_3.jpg)아이디어 공유 ![_config.yml]({{ site.baseurl }}/assets/img/menu_4.jpg)
