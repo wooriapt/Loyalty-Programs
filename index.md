@@ -67,7 +67,11 @@ I get 10 times more traffic from [Google] [1] than from
 [스케쥴 Check](./_posts/2018-08-30-Procedure.md) -->    
 <!-- [스케쥴 Check](./Procedure.md)-->
 
- [![_config.yml]({{ site.baseurl }}/assets/img/camra.png) ](https://www.ted.com/talks/don_tapscott_how_the_blockchain_is_changing_money_and_business?awesm=on.ted.com_8dbp&language=ko&utm_campaign=tedspread&utm_content=ted.com-talkpage&utm_medium=referral&utm_source=tedcomshare)
+ [![_config.yml]({{ site.baseurl }}/assets/img/camra.png) ](https://www.ted.com/talks/don_tapscott_how_the_blockchain_is_changing_money_and_business?awesm=on.ted.com_8dbp&language=ko&utm_campaign=tedspread&utm_content=ted.com-talkpage&utm_medium=referral&utm_source=tedcomshare)  
+ 
+- 돈 탭스콧(Don Tapscott)  |
+TEDSummit  
+**블록체인이 돈과 경제를 어떻게 변화시키고 있는가**    
  
 
  
