@@ -145,11 +145,21 @@ blockchain ecosystems에 참여하시는 지사. 가맹점. 영업점의 Benefit
 - 신규 및 기존 지사. 가맹점. 영업점에 토큰을 지급하므로 해서 영업에 대한 최소한에 리스크 해치를 하고
 새로운 토큰 이코노미 경제와 함께 지사. 가맹점. 영업점 라이센스 획득을 위한 기회비용을 극대화 하여
 함께 하는 가족들에게 혜택을 드릴수 있는 우리들의 비즈니스 모델입니다.  
+- 심플한 결제와 마일리지 적립방식과 가맹점주의 작업의 단순화.
+  - [Apperyio](https://youtu.be/KUgtYCqQ71Y)  
+[Create new database](https://docs.appery.io/docs/database-quickstart-buildng-an-app-with-database)  
+- Apps
+- Databases
+- Server Code
+- API Express
+- Resources
+
+[blog](https://blog.appery.io/)
 
 - **지사. 가맹점. 영업점**
-   - one:   
-   - two:  
-   - three:  
+   - one: 단순하다.    
+   - two: 심플하다.
+   - three: 네트웍의 확장이 전자화폐로 돌아온다.   
    - [더보기: Whitepaper](./whitepaper.md)  
     
 - **참여형 소비자**  
@@ -164,9 +174,9 @@ blockchain ecosystems에 참여하시는 지사. 가맹점. 영업점의 Benefit
 OTT Tokens 제공 OTT Tokens을 제공하는 지역의 OTT Tokens 사업에 귀하가 보유한 OTT Tokens 지갑을 사용하여 판매  
 구매하거나 OTT Tokens을 보낼 수 있습니다.   
 OTT Tokens 지갑 - 교환하거나 판매하거나 동전을 보낼 수 있습니다.  
-   - one:  
-   - two:  
-   - three:  
+   - one: 소비가 돈이된다.  
+   - two: 마일리지로 직접 사용 및 전자화폐 거래소를 통한 판매. 
+   - three: 마일리지도 자산관리가 된다.   
    - [더 보기: whitepaper](./whitepaper.md)  
    
    
