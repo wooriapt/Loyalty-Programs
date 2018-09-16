@@ -148,13 +148,13 @@ blockchain ecosystems에 참여하시는 지사. 가맹점. 영업점의 Benefit
 - 심플한 결제와 마일리지 적립방식과 가맹점주의 작업의 단순화.
   - [Apperyio](https://youtu.be/KUgtYCqQ71Y)  
 [Create new database](https://docs.appery.io/docs/database-quickstart-buildng-an-app-with-database)  
-- Apps
-- Databases
-- Server Code
-- API Express
-- Resources
+  - Apps
+  - Databases
+  - Server Code
+  - API Express
+  - Resources
 
-[blog](https://blog.appery.io/)
+  - [blog](https://blog.appery.io/)
 
 - **지사. 가맹점. 영업점**
    - one: 단순하다.    
