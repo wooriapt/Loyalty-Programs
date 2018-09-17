@@ -130,12 +130,14 @@ Redemption
 ### protocol: Blockchain Ethereum ERC 20 / ERC 721 Token  
    - **Ethereum ERC 20**  
      지사. 가맹점. 영업점 마일리지(포인트)형 암호화폐  
-      - 기술자료 [ERC-20 Token Standard. https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20.md](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20.md)  
+      - 기술자료   
+        [ERC-20 Token Standard. https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20.md](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20.md)  
       
    - **Ethereum ERC 721**  
      고객 및 가맹점 사용자 대상의 마일리지(포인트)형 암호화폐    
      마일리지 처럼 적립 받고 바로 가맹점에서 사용할수 있는 적립형 마일리지 토큰.  
-     - 기술자료 [ERC 721 https://github.com/wooriapt79/EIPs/blob/master/EIPS/eip-721.md](https://github.com/wooriapt79/EIPs/blob/master/EIPS/eip-721.md)  
+     - 기술자료   
+       [ERC 721 https://github.com/wooriapt79/EIPs/blob/master/EIPS/eip-721.md](https://github.com/wooriapt79/EIPs/blob/master/EIPS/eip-721.md)  
      
      
 ---------------
@@ -239,7 +241,7 @@ OTT Tokens 지갑 - 교환하거나 판매하거나 동전을 보낼 수 있습�
 
 ## 메뉴얼 보기 및 작성하기 
 - [메타마스크 전자지갑 메뉴얼](./_posts/2018-08-31-metamask setup.md)  
-- [화이트리트 작성](https://goo.gl/forms/kINXsiICE8qoagEE2)   
+- [암호화 마일리지 신청서.화이트리트 작성](https://goo.gl/forms/kINXsiICE8qoagEE2)   
 - [OTT Tokens 추가 및 담기](./_posts/2018-09-03-Metamask ADD Tokens.md)
 
  
