@@ -228,17 +228,15 @@ OTT Tokens 지갑 - 교환하거나 판매하거나 동전을 보낼 수 있습�
 - 전자지갑은 크롬 인터넷 브라우져 기반으로 운영되는 전 세계적으로 안정성이 보장된 메타마스크(Metamask wallet)을 사용합니다.
   - [메타마스크 다운로드 받기](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn "메타마스크 다운로드 받기") 
 - 전자지갑 만들기
-- 화이트리스트 참여 및 작성   
-회원가입이 필요없이 구글(google email)메일을 기준으로 합니다.    
+- [화이트리스트 참여 및 작성](https://goo.gl/forms/kINXsiICE8qoagEE2)     
+<span style="color:red">회원가입이 필요없이 구글(google email)메일을 기준으로 합니다.</span>      
 - OTT Tokens 지갑에 추가하기 담기.
 
 ----------------
 
 ## 메뉴얼 보기 및 작성하기 
 - [메타마스크 전자지갑 메뉴얼](./_posts/2018-08-31-metamask setup.md)  
-- [화이트리트 작성 메뉴얼](https://goo.gl/forms/kINXsiICE8qoagEE2) 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeOhQ-vLTQInFiWEo2NCHVtQXPhvRvPYDaE-qX5NiCwHG505A/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">로드 중...</iframe>  
-
+- [화이트리트 작성](https://goo.gl/forms/kINXsiICE8qoagEE2)   
 - [OTT Tokens 추가 및 담기](./_posts/2018-09-03-Metamask ADD Tokens.md)
 
  
