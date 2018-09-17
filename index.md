@@ -232,7 +232,8 @@ OTT Tokens 지갑 - 교환하거나 판매하거나 동전을 보낼 수 있습�
 - 다운받은 메타마스크로 전자지갑 만들기
   - 3.전자지갑 만들기  
 - 123 멤버 및 파트너 암호화 마일리지 신청하기  
-  - 4.[화이트리스트 참여 및 작성](https://goo.gl/forms/kINXsiICE8qoagEE2)       
+  - 4.[화이트리스트 참여 및 작성](https://goo.gl/forms/kINXsiICE8qoagEE2)
+      https://goo.gl/forms/kINXsiICE8qoagEE2         
 <span style="color:red">신청서 작성시 회원가입이 필요없이 구글(google email)메일을 기준으로 합니다.</span>      
 - 암호화 마일리지 지갑에 담기(메타마스크)  
   - 5.OTT Tokens 지갑에 추가하기 담기.  
