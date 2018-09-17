@@ -130,12 +130,12 @@ Redemption
 ### protocol: Blockchain Ethereum ERC 20 / ERC 721 Token  
    - **Ethereum ERC 20**  
      지사. 가맹점. 영업점 마일리지(포인트)형 암호화폐  
-      - [ERC-20 Token Standard. https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20.md](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20.md)  
+      - 기술자료 [ERC-20 Token Standard. https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20.md](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20.md)  
       
    - **Ethereum ERC 721**  
      고객 및 가맹점 사용자 대상의 마일리지(포인트)형 암호화폐    
      마일리지 처럼 적립 받고 바로 가맹점에서 사용할수 있는 적립형 마일리지 토큰.  
-     - [ERC 721 https://github.com/wooriapt79/EIPs/blob/master/EIPS/eip-721.md](https://github.com/wooriapt79/EIPs/blob/master/EIPS/eip-721.md)  
+     - 기술자료 [ERC 721 https://github.com/wooriapt79/EIPs/blob/master/EIPS/eip-721.md](https://github.com/wooriapt79/EIPs/blob/master/EIPS/eip-721.md)  
      
      
 ---------------
@@ -154,7 +154,7 @@ blockchain ecosystems에 참여하시는 지사. 가맹점. 영업점의 Benefit
   - API Express
   - Resources
 
-  - [blog](https://blog.appery.io/)
+  - [info blog](https://blog.appery.io/)
 
 - **지사. 가맹점. 영업점**
    - one: 단순하다.    
@@ -224,13 +224,13 @@ OTT Tokens 지갑 - 교환하거나 판매하거나 동전을 보낼 수 있습�
 ## 참여방법 및 절차
 - 저희는 인터넷 브라우져 기반으로 작업을 진행합니다. 이에 지원하는 브라우져는 크롬, 파이어폭스, 오페라(Chrome Firefox Opera)를
 지원하는 합니다. 참여를 희망하시는 분들은 크롬(Chrome)을 다운로드 받기.
-  - [크롬(Chrome)을 다운로드](https://www.google.com/intl/ko_ALL/chrome/ "크롬(Chrome)을 다운로드")
+  - 1.[크롬(Chrome)을 다운로드](https://www.google.com/intl/ko_ALL/chrome/ "크롬(Chrome)을 다운로드")
 - 전자지갑은 크롬 인터넷 브라우져 기반으로 운영되는 전 세계적으로 안정성이 보장된 메타마스크(Metamask wallet)을 사용합니다.
-  - [메타마스크 다운로드 받기](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn "메타마스크 다운로드 받기") 
-- 전자지갑 만들기
-- [화이트리스트 참여 및 작성](https://goo.gl/forms/kINXsiICE8qoagEE2)     
+  - 2.[메타마스크 다운로드 받기](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn "메타마스크 다운로드 받기") 
+- 3.전자지갑 만들기
+- 4.[화이트리스트 참여 및 작성](https://goo.gl/forms/kINXsiICE8qoagEE2)     
 <span style="color:red">회원가입이 필요없이 구글(google email)메일을 기준으로 합니다.</span>      
-- OTT Tokens 지갑에 추가하기 담기.
+- 5.OTT Tokens 지갑에 추가하기 담기.
 
 ----------------
 
