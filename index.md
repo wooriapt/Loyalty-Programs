@@ -186,10 +186,10 @@ OTT Tokens 지갑 - 교환하거나 판매하거나 동전을 보낼 수 있습�
 
 ### CrowdSale-크라우드 세일.
 
-- TOKEN SALE: 
+- TOKEN SALE: 2018-10-01  
 - Ticker: OTT 
 - Token type: 
-   - Ethereum ERC 2.0 WALLET
+   - Ethereum ERC 2.0 WALLET (우선지급 대상 토큰)  
    - Ethereum ERC 721 WALLET  
 - SALE Token Price: 1OTT=KRW100:0.0000USD 
 - Fundraising Goal:4,633.320,000USD:KRW5,000,000,000 
@@ -255,10 +255,11 @@ OTT Tokens 지갑 - 교환하거나 판매하거나 동전을 보낼 수 있습�
 ----------------------------
 
 ### Token registration preference  
+**OTT Tokens 추가 및 담기에 필요한 정보**  
 
 ```
 
-Token Contract Address :    
+Token Contract Address : "별도 공지"   
 Token Symbol: OTT   
 Decimals of Precision: 8  
 Network Mode : Ropsten Testnet  
