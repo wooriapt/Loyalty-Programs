@@ -6,7 +6,7 @@ layout: default
 **Loyalty Program A company that makes blockchain ecosystems.**
 ## <span style="color:navy blue"> 암호화폐를 사용하는 충성도 보너스 프로그램을 통한 블록체인 생태계를 만들어가는 기업</span>  
 ### Project: Loyalty Rewards Programs   
-[궁금한 내용 묻고 답하기](https://wooriapt.github.io/wooriapt.github.io/Loyalty-Program-Q&A/)   
+[[궁금한 내용 묻고 답하기]](https://wooriapt.github.io/wooriapt.github.io/Loyalty-Program-Q&A/)   
 
 --------------------------
 ### <span style="color: red">OTT Blockchain Tokens ?</span>  
@@ -21,7 +21,7 @@ layout: default
 ![_config.yml]({{ site.baseurl }}/assets/img/menu_3.jpg)아이디어 공유 ![_config.yml]({{ site.baseurl }}/assets/img/menu_4.jpg)
 -->
   
-
+**[소문내기]**  
 여러분의 단 한번씩의 조회나 찾기가  
 [Naver] [2] 나 [Daum] [3]보다 [Google] [1]에서 트래픽이 10 배나 많아집니다. 
 
