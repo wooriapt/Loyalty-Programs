@@ -199,7 +199,7 @@ OTT Tokens 지갑 - 교환하거나 판매하거나 동전을 보낼 수 있습�
    
 ------------------
 
-### CrowdSale-크라우드 세일.
+### 지사 가맹점을 위한 -Loyalty20 Token .
 
 - TOKEN SALE: 2018-10-01  
 - Ticker: OTT 
@@ -270,16 +270,19 @@ OTT Tokens 지갑 - 교환하거나 판매하거나 동전을 보낼 수 있습�
 ----------------------------
 
 ### Token Brand : Loyalty20 
-#### OTT Tokens 추가 및 담기에 필요한 정보    
+#### OTT Tokens 메타마스에 추가 및 담기에 필요한 정보    
 
 ```
 
-Token Contract Address : 0x92fd60d1be2e39e5e52bd5641592f5c86be65bf6   
+Token Contract Address :   
+0x92fd60d1be2e39e5e52bd5641592f5c86be65bf6   
 Token Symbol: OTT   
 Decimals of Precision: 8  
 Network Mode : Ropsten Testnet  
 
 ```
+
+
 ### Community
 바로 Telegram 채널에 가입하여 지원을 알려주십시오!  
 또한 github, Twitter 및 Telegram을 정보를 받으십시요.
