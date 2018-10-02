@@ -274,11 +274,10 @@ OTT Tokens 지갑 - 교환하거나 판매하거나 동전을 보낼 수 있습�
 #### OTT Tokens 메타마스에 추가 및 담기에 필요한 정보 
 <!--
 1.Loyalty20 (OTT)
-
 Interacting with token at address:0x92fd60d1be2e39e5e52bd5641592f5c86be65bf6 
 Total Supply is: 1,000,000,000. 
-2.Loyalty20 (OTT)
 
+2.Loyalty20 (OTT)
 Interacting with token at address: 0x376e4055b44e924f114a6cc931a5247324552e53. 
 Total Supply is: 10,000,000,000. 
 
