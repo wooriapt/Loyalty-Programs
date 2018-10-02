@@ -5,8 +5,18 @@ description: ERC Ethereum Token Standards
 publish date: 2018-10-01 21:50:49 Monday
 ---
 
+### Notice 
+### 1.Loyalty20 (OTT)
+Interacting with token at address:0x92fd60d1be2e39e5e52bd5641592f5c86be65bf6 
+Total Supply is: 1,000,000,000. 
 
+### 2.Loyalty20 (OTT)
+Interacting with token at address: 0x376e4055b44e924f114a6cc931a5247324552e53. 
+Total Supply is: 10,000,000,000. 
 pragma solidity ^0.4.20;
+
+--------------------------------------------------
+### 간략 Code
 
 contract MyToken {
     /* This creates an array with all balances */
@@ -31,7 +41,9 @@ contract MyToken {
 
 ----------------------------
 
-### pragma solidity ^0.4.16;
+### Basic Code-Remix
+
+#### pragma solidity ^0.4.16;
 
 interface tokenRecipient { function receiveApproval(address _from, uint256 _value, address _token, bytes _extraData) external; }
 
@@ -193,14 +205,18 @@ contract LoyaltyERC20 {
 -----------
 
 **Config 2018-10-02**
-> Loyalty20 (ott)
 
-> Interacting with token at address: 0x92fd60d1be2e39e5e52bd5641592f5c86be65bf6. 
-> Total Supply is: 1000000000. 
+> 1.Loyalty20 (OTT)
+Interacting with token at address:0x92fd60d1be2e39e5e52bd5641592f5c86be65bf6 
+Total Supply is: 1,000,000,000. 
 
-> Transfer Loyalty20
+> 2.Loyalty20 (OTT)
+Interacting with token at address: 0x376e4055b44e924f114a6cc931a5247324552e53. 
+Total Supply is: 10,000,000,000. 
 
 ----------------
+
+### Token Factory  
 
 // Contract Source Code   
 contract Token {
@@ -356,5 +372,7 @@ contract HumanStandardToken is StandardToken {
 }
 
 --------------------------------
+
+### Token Factory Contract ABI  
 
 [{"constant":true,"inputs":[],"name":"name","outputs":[{"name":"","type":"string"}],"type":"function"},{"constant":false,"inputs":[{"name":"_spender","type":"address"},{"name":"_value","type":"uint256"}],"name":"approve","outputs":[{"name":"success","type":"bool"}],"type":"function"},{"constant":true,"inputs":[],"name":"totalSupply","outputs":[{"name":"","type":"uint256"}],"type":"function"},{"constant":false,"inputs":[{"name":"_from","type":"address"},{"name":"_to","type":"address"},{"name":"_value","type":"uint256"}],"name":"transferFrom","outputs":[{"name":"success","type":"bool"}],"type":"function"},{"constant":true,"inputs":[],"name":"decimals","outputs":[{"name":"","type":"uint8"}],"type":"function"},{"constant":true,"inputs":[],"name":"version","outputs":[{"name":"","type":"string"}],"type":"function"},{"constant":true,"inputs":[{"name":"_owner","type":"address"}],"name":"balanceOf","outputs":[{"name":"balance","type":"uint256"}],"type":"function"},{"constant":true,"inputs":[],"name":"symbol","outputs":[{"name":"","type":"string"}],"type":"function"},{"constant":false,"inputs":[{"name":"_to","type":"address"},{"name":"_value","type":"uint256"}],"name":"transfer","outputs":[{"name":"success","type":"bool"}],"type":"function"},{"constant":false,"inputs":[{"name":"_spender","type":"address"},{"name":"_value","type":"uint256"},{"name":"_extraData","type":"bytes"}],"name":"approveAndCall","outputs":[{"name":"success","type":"bool"}],"type":"function"},{"constant":true,"inputs":[{"name":"_owner","type":"address"},{"name":"_spender","type":"address"}],"name":"allowance","outputs":[{"name":"remaining","type":"uint256"}],"type":"function"},{"inputs":[{"name":"_initialAmount","type":"uint256"},{"name":"_tokenName","type":"string"},{"name":"_decimalUnits","type":"uint8"},{"name":"_tokenSymbol","type":"string"}],"type":"constructor"},{"anonymous":false,"inputs":[{"indexed":true,"name":"_from","type":"address"},{"indexed":true,"name":"_to","type":"address"},{"indexed":false,"name":"_value","type":"uint256"}],"name":"Transfer","type":"event"},{"anonymous":false,"inputs":[{"indexed":true,"name":"_owner","type":"address"},{"indexed":true,"name":"_spender","type":"address"},{"indexed":false,"name":"_value","type":"uint256"}],"name":"Approval","type":"event"}]
