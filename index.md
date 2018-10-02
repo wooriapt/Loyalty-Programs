@@ -204,7 +204,8 @@ OTT Tokens 지갑 - 교환하거나 판매하거나 동전을 보낼 수 있습�
 - TOKEN SALE: 2018-10-01  
 - Ticker: OTT 
 - Token type: 
-   - Ethereum ERC 2.0 WALLET (우선지급 대상 토큰)  
+   - Ethereum ERC 2.0 WALLET (우선지급 대상 토큰) 
+     - Token 수량 : 1000000000
    - Ethereum ERC 721 WALLET  
 - SALE Token Price: 1OTT=KRW100:0.0000USD 
 - Fundraising Goal:4,633.320,000USD:KRW5,000,000,000 
