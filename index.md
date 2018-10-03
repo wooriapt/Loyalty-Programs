@@ -9,10 +9,11 @@ layout: default
 [[궁금한 내용 묻고 답하기]](https://wooriapt.github.io/wooriapt.github.io/Loyalty-Program-Q&A/)   
 
 --------------------------
-### <span style="color: red">OTT Blockchain Tokens ?</span>  
+### <span style="color: red">Loyalty20 Blockchain Tokens ?</span>  
 **Korea Blockchain Tokens**-을 추구합니다.  
 화려하고 아름다운 암호 화페형 마일리지입니다.  
-**핀란드어로 Korea는 화려하고 아름다움(Decoration)입니다.**
+**핀란드어로 Korea는 화려하고 아름다움(Decoration)입니다.**  
+### <span style="color: red">Shopping rewards you can trade</span>
 
 ---------------------------
 
@@ -160,7 +161,10 @@ OTT 토큰은 Ethereum 블록 체인을 기반으로합니다.
 ---------------
 
 ### Loyalty tokens benefit
-blockchain ecosystems에 참여하시는 지사. 가맹점. 영업점의 Benefit 
+### 거래가능한 쇼핑에 대한 보상 시스템(Shopping rewards you can trade).  
+## Trade  
+ ### - Trade and save at participating retailers.  
+**blockchain ecosystems에 참여하시는 지사. 가맹점. 영업점의 Benefit**
 - 신규 및 기존 지사. 가맹점. 영업점에 토큰을 지급하므로 해서 영업에 대한 최소한에 리스크 해치를 하고
 새로운 토큰 이코노미 경제와 함께 지사. 가맹점. 영업점 라이센스 획득을 위한 기회비용을 극대화 하여
 함께 하는 가족들에게 혜택을 드릴수 있는 우리들의 비즈니스 모델입니다.  
