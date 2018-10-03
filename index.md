@@ -161,9 +161,10 @@ OTT 토큰은 Ethereum 블록 체인을 기반으로합니다.
 ---------------
 
 ### Loyalty tokens benefit
-### 거래가능한 쇼핑에 대한 보상 시스템(Shopping rewards you can trade).  
+### 거래가능한 쇼핑에 대한 보상 시스템
+ - Shopping rewards you can trade    
 ## Trade  
- ### - Trade and save at participating retailers.  
+ - Trade and save at participating retailers.    
 **blockchain ecosystems에 참여하시는 지사. 가맹점. 영업점의 Benefit**
 - 신규 및 기존 지사. 가맹점. 영업점에 토큰을 지급하므로 해서 영업에 대한 최소한에 리스크 해치를 하고
 새로운 토큰 이코노미 경제와 함께 지사. 가맹점. 영업점 라이센스 획득을 위한 기회비용을 극대화 하여
