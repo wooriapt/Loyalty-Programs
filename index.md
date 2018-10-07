@@ -323,3 +323,11 @@ Blockchain, Food Tech, 기술 분야 및 마케팅 분야의 업계 선두 업�
  
 ### Contact me  
 <dany.me.park@gmail.com>
+
+
+
+## Loyalty20 OTT Token
+### The Future of Shopping
+
+Loyalty20 Token makes your loyalty rewards tradeable 
+- start now to collect everywhere, exhange anytime and redeem whenever and wherever you like
