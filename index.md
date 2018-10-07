@@ -9,11 +9,11 @@ layout: default
 [[궁금한 내용 묻고 답하기]](https://wooriapt.github.io/wooriapt.github.io/Loyalty-Program-Q&A/)   
 
 --------------------------
-### <span style="color: red">Loyalty20 Blockchain Tokens ?</span>  
+### <span style="color: 999900">Loyalty20 Blockchain Tokens ?</span>  
 **Korea Blockchain Tokens**-을 추구합니다.  
 화려하고 아름다운 암호 화페형 마일리지입니다.  
 **핀란드어로 Korea는 화려하고 아름다움(Decoration)입니다.**  
-### <span style="color: red">Shopping rewards you can trade</span>
+### <span style="color: 999900">Shopping rewards you can trade</span>
 
 ---------------------------
 
