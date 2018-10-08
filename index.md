@@ -15,9 +15,9 @@ layout: default
 **핀란드어로 Korea는 화려하고 아름다움(Decoration)입니다.**  
 ### <span style="color: #999900">Shopping rewards you can trade</span>
 
-**The Future of Shopping**  
+**The Future of Shopping**    
 Loyalty20 Token makes your loyalty rewards tradeable   
-- start now to collect everywhere, exhange anytime and redeem whenever and wherever you like  
+start now to collect everywhere, exhange anytime and redeem whenever and wherever you like  
 
 ---------------------------
 
