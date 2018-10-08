@@ -16,8 +16,9 @@ layout: default
 ### <span style="color: #999900">Shopping rewards you can trade</span>
 
 **The Future of Shopping**  
-Loyalty20 Token makes your loyalty rewards tradeable 
-- start now to collect everywhere, exhange anytime and redeem whenever and wherever you like
+Loyalty20 Token makes your loyalty rewards tradeable   
+- start now to collect everywhere, exhange anytime and redeem whenever and wherever you like  
+
 ---------------------------
 
 <!--
