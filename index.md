@@ -34,14 +34,15 @@ start now to collect everywhere, exhange anytime and redeem whenever and whereve
   [2]: http://www.naver.com/  "Naver"  
   [3]: http://www.daum.net/   "Daum Search"  
 
-
+### [희망 하는 Side Prodect](./side project.md)  
 ![_config.yml]({{ site.baseurl }}/assets/img/Screen+Shot+2017-10-14+at+14.39.30.png)  
 
 출처:바르다가 사랑한 얼굴들.
 
 ---------
+  
 
-### 프로젝트의 철학(The philosophy of the Project)   
+### 프로젝트의 철학 1.(The philosophy of the Project)   
 **일하는 사람들과 활동을 펼친다는 것입니다**     
 **소비가 자산이 될수 있다..?**  
 증명하는  실험적인 프로젝트를 진행하고자 합니다.    
