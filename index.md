@@ -323,6 +323,8 @@ Blockchain, Food Tech, 기술 분야 및 마케팅 분야의 업계 선두 업�
 또한, 우리는 세계에서 가장 큰 블록 체인 파트너와 계약을 맺었습니다. 우리는 이러한 위대한 파트너십을 발표하게되어 매우 기쁩니다.
 이 위대한 파트너들과 함께 일하면서 큐본 생태계의 대량 채택을 촉진하여 세계에서 큐본 생태계 토큰 획득에 중점을 둔 주요 생태계 플랫폼으로 확장하는데 도움이 될 것입니다.
 
+[우리들의 프로젝트](https://wooriapt.github.io/wooriapt.github.io/business)  
+
 ### Partner: Let’s Collaborate  
 **Estonia Blockchain Lab**  
 파트너십 기회와 관심에 대한 문의    
