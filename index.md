@@ -2,13 +2,13 @@
 layout: default
 
 ---
-### 이 프로젝트는 마감된 프로젝트입니다.
+### Loyalty 20
 **Loyalty Program A company that makes blockchain ecosystems.**
 ## <span style="color:navy blue"> 암호화폐를 사용하는 충성도 보너스 프로그램을 통한 블록체인 생태계를 만들어가는 기업</span>  
 ### Project: Loyalty Rewards Programs   
 - [궁금한 내용 묻고 답하기](https://wooriapt.github.io/wooriapt.github.io/Loyalty-Program-Q&A/)   
 - [Why Blockchain is Hard](https://wooriapt.github.io/wooriapt.github.io/Why-Blockchain-is-Hard/)
-
+- <span style="color:navy blue">이 프로젝트는 마감된 프로젝트입니다.</span> 
 --------------------------
 ### <span style="color: #999900">Loyalty20 Blockchain Tokens ?</span>  
 **Korea Blockchain Tokens**-을 추구합니다.  
