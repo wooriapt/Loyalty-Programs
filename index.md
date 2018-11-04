@@ -8,7 +8,8 @@ layout: default
 ### Project: Loyalty Rewards Programs   
 - [궁금한 내용 묻고 답하기](https://wooriapt.github.io/wooriapt.github.io/Loyalty-Program-Q&A/)   
 - [Why Blockchain is Hard](https://wooriapt.github.io/wooriapt.github.io/Why-Blockchain-is-Hard/)
-- <span style="color:navy blue">이 프로젝트는 마감된 프로젝트입니다.</span> 
+- 이 프로젝트는 마감된 프로젝트입니다.
+
 
 --------------------------
 ### <span style="color: #999900">Loyalty20 Blockchain Tokens ?</span>  
