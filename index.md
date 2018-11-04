@@ -2,7 +2,7 @@
 layout: default
 
 ---
-# 이 프로젝트는 마감된 프로젝트입니다.
+### 이 프로젝트는 마감된 프로젝트입니다.
 **Loyalty Program A company that makes blockchain ecosystems.**
 ## <span style="color:navy blue"> 암호화폐를 사용하는 충성도 보너스 프로그램을 통한 블록체인 생태계를 만들어가는 기업</span>  
 ### Project: Loyalty Rewards Programs   
